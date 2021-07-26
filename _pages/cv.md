@@ -11,4 +11,4 @@ redirect_from:
 
 Vous pouvez télécharger mon CV au format PDF <I> (dernière mis à jour : Janvier 2020) </I>
  
-[english](/files/pdf/CV classique ENG.pdf), [french](/files/pdf/CV classique ENG.pdf) mon profil [Linkedin](www.linkedin.com/in/valentin-kilian-277777209/) est mis à jour plus régulièrement. 
+[english](/files/pdf/CV classique ENG.pdf), [français](/files/pdf/CV classique ENG.pdf) mon profil [Linkedin](http://www.linkedin.com/in/valentin-kilian-277777209/) est mis à jour plus régulièrement. 
