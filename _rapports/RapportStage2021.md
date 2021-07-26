@@ -1,7 +1,7 @@
 ---
 title: "Dynamiques d’Opinions sur les Réseaux Sociaux22"
 collection: publications
-permalink: /publication/dynamiques_opinions_2021
+permalink: /rapports/dynamiques_opinions_2021
 excerpt : "Rapport écrit suite à mon stage à UCL"
 date: 2021-07-22
 venue:
