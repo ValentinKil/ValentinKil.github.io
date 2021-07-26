@@ -25,6 +25,7 @@
     {% endif %}
 
     <h3 class="archive__item-title" itemprop="headline">
+
       {% if post.collection == 'publications' %}
         {{ title }}
       {% elsif post.link %}
@@ -42,7 +43,6 @@
       <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.collection == 'publications' %}
 
-      <!-- 
   {% if post.abstract %}
        <details><summary>Abstract</summary>
 	<blockquote>
@@ -52,7 +52,6 @@
        	</blockquote>
        </details>
      {% endif %}
- -->
       <!-- citation and icon code -->
       <p>
       {% if post.citation %}
