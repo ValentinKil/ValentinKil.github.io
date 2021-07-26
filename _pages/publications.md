@@ -13,7 +13,7 @@ author_profile: true
 
 <h2> Rapports et mémoires </h2>
 
-{% for post in site.rapports reversed %}
+{% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
