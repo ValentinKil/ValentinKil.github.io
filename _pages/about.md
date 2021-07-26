@@ -11,6 +11,6 @@ redirect_from:
 Site en construction 
 
 
-Je suis actuellement Normalien (Fonctionnaire-stagiaire) à l'École Normale Supérieure de Rennes au département de Mathématiques. 
+Je suis actuellement Normalien (Fonctionnaire-stagiaire) à l'École Normale Supérieure de Rennes ([ENS Rennes](http://www.ens-rennes.fr)) au département de Mathématiques. 
 
 Cette année je me prépare à l'agrégation de mathématiques
