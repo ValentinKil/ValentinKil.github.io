@@ -14,7 +14,7 @@ author_profile: true
 
 <h2> Publications </h2>
 
-{% for post in './_publications/Rapport' reversed %}
+{% for post in site.rapports reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
