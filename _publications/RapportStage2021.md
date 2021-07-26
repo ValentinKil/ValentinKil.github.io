@@ -6,7 +6,7 @@ excerpt : "Rapport de Stage"
 date: 2021-07-22
 venue:
 paperurl: "lien"
-link: '/files/bibtex/RapportStage2021.bib'
+link: '/files/bibtex/RapportStage2021.txt'
 code: 
 github: 'https://github.com/ValentinKil/DynamiquesOpinions2021'
 citation:
