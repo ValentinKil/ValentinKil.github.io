@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "A propos"
+excerpt: "A propos"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,3 +9,8 @@ redirect_from:
 ---
 
 Site en construction 
+
+
+Je suis actuellement Normalien (Fonctionnaire-stagiaire) à l'École Normale Supérieure de Rennes au département de Mathématiques. 
+
+Cette année je me prépare à l'agrégation de mathématiques
