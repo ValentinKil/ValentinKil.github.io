@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-<h1> Rapports et mémoires <\h1>
+<h1> Rapports et mémoires </h1>
 
 {% for post in site.publications.RapportMemoire reversed %}
   {% include archive-single.html %}
