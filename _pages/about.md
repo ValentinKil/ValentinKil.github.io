@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Site en construction 
+Site en construction v1
 
 
 Je suis actuellement Normalien (Fonctionnaire-stagiaire) à l'École Normale Supérieure de Rennes ([ENS Rennes](http://www.ens-rennes.fr)) au département de Mathématiques. 
