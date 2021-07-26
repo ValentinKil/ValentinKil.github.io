@@ -11,6 +11,4 @@ redirect_from:
 
 Vous pouvez télécharger mon CV au format PDF <I> (dernière mis à jour : Janvier 2020) </I>
  
-[english](/files/pdf/CV classique ENG.pdf)
-
-[french](/files/pdf/CV classique ENG.pdf).
+[english](/files/pdf/CV classique ENG.pdf), [french](/files/pdf/CV classique ENG.pdf).
