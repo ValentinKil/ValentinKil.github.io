@@ -23,7 +23,9 @@
           alt="">
       </div>
     {% endif %}
+
     <h2 class="archive__item-title" itemprop="headline">
+
       {% if post.collection == 'publications' %}
         {{ title }}
       {% elsif post.link %}
@@ -31,10 +33,13 @@
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
+
     </h2>
+
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
+
     {% if post.collection == 'teaching' %}
       <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.collection == 'publications' %}
@@ -47,11 +52,13 @@
         </blockquote>
         </details>
       {% endif %}
+
       <!-- citation and icon code -->
       <p>
       {% if post.citation %}
         {{ post.citation }}
       {% endif %}
+
       <br>
       {% if post.link %}
         <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
@@ -66,6 +73,7 @@
         <a href="{{ post.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
       {% endif %}
       </p>
+
     {% elsif post.collection == 'posts' and post.date %}
       <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
     {% endif %}
