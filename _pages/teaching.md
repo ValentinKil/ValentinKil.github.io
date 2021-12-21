@@ -1,6 +1,6 @@
 ---
 permalink: /teaching/
-title: "Enseignement"
+title: "Agrégation"
 ---
 
 

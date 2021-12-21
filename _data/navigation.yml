@@ -6,8 +6,12 @@ main:
   #- title: "Research"
   # url: /research/
 
-  - title: "Enseignement"
-    url: /teaching/
+  #- title: "Enseignement"
+  #  url: /teaching/
+
+  - title: "Agrégation"
+    url: /teaching-materials/
+
     
   - title: "Curriculum Vitae"
     url: /cv/
