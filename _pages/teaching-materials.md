@@ -1,52 +1,54 @@
 ---
 permalink: /teaching-materials/
-title: "Teaching Materials"
+title: "Agrégation"
 header: 
-  og_image: "teaching/pdp.png"
+  on_image: "teaching/pdp.png"
 ---
 
-## <i class="fas fa-fw fa-code" aria-hidden="true"></i> Poli 891: Lab for Advanced Political Data Science
+## Leçons d'Algèbre et Géométrie
 - [Programming Style](/files/html/teaching-materials/R_Style_Guide)
-- [Functional Programming in R](/files/html/teaching-materials/Functional_Programming)
-- [Multilevel Linear Models](/files/html/teaching-materials/Multilevel_Linear_Models)
-  - [Individual Exercise Solution](/files/html/teaching-materials/Multilevel_Linear_Models_Key.html)
-- [Multilevel Generalized Linear Models](/files/html/teaching-materials/Multilevel_GLMs)
-  - [Individual Exercise Solution](/files/html/teaching-materials/Multilevel_GLMs_Key.html)
-- [Multilevel Models for Correlated Data](/files/html/teaching-materials/NLME)
-- [Multilevel Regression with Poststratification](/files/html/teaching-materials/MRP)
-  - [Individual Exercise Solution](/files/html/teaching-materials/MRP_key.html)
-- [High Performance Computing](/files/html/teaching-materials/Cluster)
-- [Working with Strings](/files/html/teaching-materials/Strings)
-  - [Individual Exercise Solution](/files/html/teaching-materials/Strings_Key.html)
-- [Structural Topic Models](/files/html/teaching-materials/STM)
-  - [Individual Exercise Solution](/files/html/teaching-materials/STM_Key.html)
-- [Item Response Theory Models](/files/html/teaching-materials/IRT)
-  - [Individual Exercise Solution](/files/html/teaching-materials/IRT_Key.html)
-- [Performance, Optimization, and Parallelization](/files/html/teaching-materials/Performance_and_Optimization)
-- [Regression and Classification Trees](/files/html/teaching-materials/Trees)
-  - [Individual Exercise Solution](/files/html/teaching-materials/Trees_Key.html)
-- [Elastic Net, LASSO, and Ridge Regression](/files/html/teaching-materials/Elastic_Net)
-  - [Individual Exercise Solution](/files/html/teaching-materials/Elastic_Net_Key.html)
-- [Latent Space Networks](/files/html/teaching-materials/Latent_Networks)
+- 101 : Groupes opérant sur un ensemble, exemples et applications
+- 102 : Groupe des nombres complexes de module 1, sous-groupes des racines de l’unité, applications
+- 103 : Conjugaison dans un groupe, exemples de sous-groupes distingués et de groupes quotients, applications
+- 104 : Groupes abéliens et non abéliens finis, exemples et applications
+- 105 : Groupe des permutations d'un ensemble fini, applications
+- 106 : Groupe linéaire d'un espace vectoriel de dimension finie E, sous-groupes de GL(E), applications
+- 107 : Représentations et caractères linéaires d'un groupe fini sur C-espace vectoriel, exemples
+- 108 : Exemples de parties génératrices d'un groupe, applications
+- 120 : Anneaux Z/nZ, applications
+- 121 : Nombres premiers, applications
+- 122 : Anneaux principaux, applications
+- 123 : Corps finis, applications
+- 125 : Extensions de corps, exemples et applications
+- 126 : Exemples d'équations en arithmétique
+- 141 : Polynômes irréductibles à une indéterminée, corps de rupture, exemples et applications
+- 142 : PGCD et PPCM, algorithmes de calcul, applications
+- 144 : Racines de polynômes, fonctions symétriques élementaires, exemples et applications
+- 150 : Exemples d’actions de groupes sur des espaces de matrices
+- 151 : Dimension d’un espace vectoriel (en dimension finie), rang, exemples et applications
+- 152 : Déterminants, exemples et applications
+- 153 : Polynômes d’endomorphisme en dimension finie, réduction d’un endomorphisme en dimension finie, applications
+- 154 : Sous-espaces stables par un endomorphismeou une famille d’endomorphismes d’un espace vectoriel de dimension finie, applications
+- 155 : Endomorphismes diagonalisables en dimension finie
+- 156 : Exponentielle de matrices, applications
+- 157 : Endomorphismes trigonalisables, endomorphismes nilpotents
+- 158 : Matrices symétriques réelles, matrices hermitiennes
+- 159 : Formes linéaires et dualité en dimension finie, exemples et applications
+- 160 : Endomorphismes remarquables d'un espace vectoriel euclidien (en dimension finie)
+- 161 : Distances et isométries d'un espace affine euclidien
+- 162 : Systèmes d’équations linéaires, opérations élémentaires, aspects algorithmiques et conséquences théoriques
+- 170 : Formes quadratiques sur un espace vectoriel de dimension finie, orthogonalité, isotropie, applications
+- 171 : Formes quadratiques réelles, coniques, exemples et applications
+- 181 : Barycentres dans un espace affine réel de dimension finie, convexité, applications
+- 190 : Méthodes combinatoires, problèmes de dénombrement (impasse)
+- 191 : Exemples d’utilisation des techniques d’algèbre en géométrie
 
-## <i class="fas fa-fw fa-chart-bar" aria-hidden="true"></i> Poli 281: Quantitative Research in Political Science
-- [Introduction to R](/files/pdf/teaching-materials/281 1-15.pdf)
-- [Working with Data in R](/files/pdf/teaching-materials/281 1-22.pdf)
-- [Writing R Scripts](/files/pdf/teaching-materials/281 1-24_R_Scripts.pdf)
-- [Visualizing Discrete and Continuous Data](/files/pdf/teaching-materials/281 2-5_Hockey.pdf)
+## Leçons d'Analyse et Probabilité
 
-## <i class="fas fa-fw fa-code" aria-hidden="true"></i> Poli 891: Machine Learning
-- [Artificial Neural Networks](/files/html/teaching-materials/Artificial Neural Networks)
 
-## <i class="fas fa-fw fa-globe-africa" aria-hidden="true"></i> PS 3090: The Scientific Study of Civil Wars
-- [Regression in 10 Minutes](/files/pdf/teaching-materials/3090 1-27.pdf)
-- [What's in a War?](/files/pdf/teaching-materials/3090 1-29.pdf)
+## Développement d'Algèbre et Géométrie
 
-## <i class="fas fa-fw fa-globe-africa" aria-hidden="true"></i> PS 3171: International Conflict Management and Resolution
-- [Measuring the Democratic Peace](/files/pdf/teaching-materials/3171 9-10.pdf)
 
-## <i class="fas fa-fw fa-chart-area" aria-hidden="true"></i> ICPSR: Introduction to Applied Bayesian Modeling
-- [Using Stan to Estimate Bayesian Models](/files/html/teaching-materials/Stan_Lab)
+## Développement d'Analyse et Probabilité
 
-## <i class="fas fa-fw fa-globe-africa" aria-hidden="true"></i> Peace Science 2018: Measurement Workshop
-- [Item Response Theory Models](/files/html/teaching-materials/PSS_IRT)
+
