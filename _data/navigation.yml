@@ -9,9 +9,6 @@ main:
   #- title: "Enseignement"
   #  url: /teaching/
 
-  - title: "Polycopiés"
-    url: /polycopies/
-
     
   - title: "Curriculum Vitae"
     url: /cv/
