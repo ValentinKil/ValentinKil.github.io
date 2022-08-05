@@ -1,11 +1,17 @@
 ---
-permalink: /polycopies/
+layout: archive
 title: "Polycopiés"
-header: 
-  on_image: "polycopies/pdp.png"
+permalink: /polycopies/
+author_profile: true
 ---
 
+{% include base_path %}
 
+##Stages
+
+{% for post in site.polycopies reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 
 ## Développement pour l'Agrégation 
