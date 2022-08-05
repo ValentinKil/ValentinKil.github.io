@@ -1,8 +1,8 @@
 ---
-permalink: /teaching-materials/
-title: "Polycopiès"
+permalink: /polycopies/
+title: "Polycopiés"
 header: 
-  on_image: "teaching/pdp.png"
+  on_image: "polycopies/pdp.png"
 ---
 
 
