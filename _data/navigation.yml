@@ -3,12 +3,13 @@ main:
   - title: "Publications"
    url: /publications/
     
+  - title: "Curriculum Vitae"
+    url: /cv/
+
   #- title: "Research"
   # url: /research/
 
   #- title: "Enseignement"
   #  url: /teaching/
 
-    
-  - title: "Curriculum Vitae"
-    url: /cv/
+
