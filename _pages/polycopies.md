@@ -15,7 +15,7 @@ Lors de ma préparation à l'agrégation j'ai écrit quelques dévelopement que 
 - Equation de Legendre
 - Critère de Weyl
 
-Voici égallement mon mémoire de master sur la leçon [Nombres Premiers et Applications](/files/pdf/Agreg/Memoire_nb_premier.pdf)
+Voici égallement mon mémoire de master sur la leçon [Nombres Premiers et Applications](/files/pdf/Memoire_nb_premier.pdf)
 
 ## Stages
 
