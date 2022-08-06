@@ -16,3 +16,4 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+  {% include archive-single.html post="../_publications/RapportStage2021.md" %}
