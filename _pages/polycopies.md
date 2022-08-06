@@ -18,6 +18,8 @@ Lors de ma préparation à l'agrégation j'ai écrit quelques dévelopement que 
 
 ## Stages
 
+{% include base_path %}
+
 {% for post in site.polycopies reversed %}
   {% include archive-single.html %}
 {% endfor %}
