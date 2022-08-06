@@ -1,10 +1,15 @@
 # main links links
 main:
+<<<<<<< HEAD
   - title: "Publications"
    url: /publications/
 
  - title: "Polycopiés"
     url: /polycopies/
+=======
+  # title: "Publications"
+    url: /publications/
+>>>>>>> parent of 5d36976 (Update navigation.yml)
     
   - title: "Curriculum Vitae"
     url: /cv/
