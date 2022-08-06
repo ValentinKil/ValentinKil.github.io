@@ -1,10 +1,7 @@
 # main links links
 main:
- #- title: "Publications"
- # url: /publications/
-
- - title: "Polycopiés"
-    url: /polycopies/
+  # title: "Publications"
+    url: /publications/
     
   - title: "Curriculum Vitae"
     url: /cv/
