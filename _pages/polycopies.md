@@ -19,6 +19,5 @@ Voici égallement mon mémoire de master sur la leçon [Nombres Premiers et Appl
 
 ## Stages
 
-{% for post in site.polycopies reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+  {% include archive-single.html links=site.polycopies.RapportStage2021 %}
+
