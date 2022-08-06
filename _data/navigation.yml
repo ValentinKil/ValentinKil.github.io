@@ -1,15 +1,17 @@
 # main links links
 main:
   # title: "Publications"
-    url: /publications/
+  # url: /publications/
     
-  - title: "Curriculum Vitae"
-    url: /cv/
-
   #- title: "Research"
   # url: /research/
 
   #- title: "Enseignement"
   #  url: /teaching/
 
+  - title: "Polycopiés"
+    url: /polycopie/
 
+    
+  - title: "Curriculum Vitae"
+    url: /cv/
