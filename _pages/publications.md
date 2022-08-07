@@ -18,4 +18,4 @@ author_profile: true
 
 
 {% assign post='../_publications/RapportStage2021.md' %}
-{% include archive-single.html, post : post%}
+{% include archive-single.html, post=post%}
