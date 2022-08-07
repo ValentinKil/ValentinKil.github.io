@@ -2,6 +2,7 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
+path:'../_publications/RapportStage2021.md
 author_profile: true
 ---
 
@@ -16,4 +17,5 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-  {% include archive-single.html post='../_publications/RapportStage2021.md' %}
+
+{% include archive-single.html post=path %}
