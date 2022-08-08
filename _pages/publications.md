@@ -17,4 +17,4 @@ author_profile: true
 {% endfor %}
 
 {% assign post = site.publication.RapportStage2021[include.md] %}
-{% include archive-single.html post=post%}
+{% include archive-single.html %}
