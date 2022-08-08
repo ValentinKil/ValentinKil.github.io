@@ -16,5 +16,5 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-{% assign post = site.publication.RapportStage2021[include.md] %}
+{% assign post = site.publication.RapportStage2021 %}
 {% include archive-single.html %}
