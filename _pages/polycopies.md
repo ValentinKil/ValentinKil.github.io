@@ -20,6 +20,6 @@ Voici égallement mon mémoire de master sur la leçon [Nombres Premiers et Appl
 ## Stages
 
 {% include base_path %}
-{% for post in site.source reversed %}
+{% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
