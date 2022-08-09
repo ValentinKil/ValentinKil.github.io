@@ -19,7 +19,7 @@ Voici égallement mon mémoire de master sur la leçon [Nombres Premiers et Appl
 
 ## Stages
 
-{% for post in site.posts %}
+{% for post in site.publications %}
   {%if post.path contains 'Stages' %}
     {% include archive-single.html %}
   {%endif %}
