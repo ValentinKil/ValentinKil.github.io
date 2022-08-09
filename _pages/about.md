@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Site en construction v1.5.1
-
-
 Je suis actuellement Normalien (Fonctionnaire-stagiaire) à l'École Normale Supérieure de Rennes ([ENS Rennes](http://www.ens-rennes.fr)) au département de Mathématiques. 
 
 Cette année j'ai été reçus à l'agrégation externe de Mathématiques. J'ai écris lors de ma préparation plusieurs documents qui seront bientôt disponible sur cette page. 
