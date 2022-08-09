@@ -19,7 +19,8 @@ Voici égallement mon mémoire de master sur la leçon [Nombres Premiers et Appl
 
 ## Stages
 
-{% include base_path %}
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
+{% for post in site.publications %}
+  {%if post.path contains 'RapportStage2021' %}
+    {% include archive-single.html %}
+  {%endif %}
 {% endfor %}
