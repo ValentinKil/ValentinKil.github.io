@@ -6,7 +6,7 @@ excerpt : "Rapport de Stage suite à mon stage à UCL sous la direction de B.Gue
 date: 2021-07-22
 venue:
 paperurl: 'https://minerve.ens-rennes.fr/images/DynamiquedOpinion.pdf'
-link:  'https://minerve.ens-rennes.fr/images/DynamiquedOpinion.pdf'
+link:  
 code:  '/files/bibtex/RapportStage2021.txt'
 github: 'https://github.com/ValentinKil/DynamiquesOpinions2021'
 ---
