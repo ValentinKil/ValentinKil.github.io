@@ -10,8 +10,8 @@ author_profile: true
 Lors de ma préparation à l'agrégation j'ai écrit quelques dévelopement que vous ne trouverez dans aucun livre, les voici : 
 
 - Calcul d’intégrale par une DSE
-- Marche aléatoire sur Z^d 
-<!-- - Théorème d’échantillonnage de Shannon -->- 
+- [Marche aléatoire sur $\mathbb{Z}^d$](/files/pdf/MarcheAleatoire.pdf)
+<!-- - Théorème d’échantillonnage de Shannon -->
 - [Equation de Legendre](/files/pdf/Legendre.pdf)
 <!-- - Critère de Weyl -->
 
