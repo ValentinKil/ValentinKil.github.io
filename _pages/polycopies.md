@@ -14,6 +14,8 @@ Lors de ma préparation à l'agrégation j'ai écrit quelques dévelopement que 
 <!-- - Théorème d’échantillonnage de Shannon -->- 
 - [Equation de Legendre](/files/pdf/Legendre.pdf)
 <!-- - Critère de Weyl -->
+
+
 Voici égallement mon mémoire de master sur la leçon [Nombres Premiers et Applications](/files/pdf/Memoire_nb_premier.pdf)
 
 ## Stages
