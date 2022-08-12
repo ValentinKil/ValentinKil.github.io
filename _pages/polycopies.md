@@ -9,10 +9,10 @@ author_profile: true
 
 Lors de ma préparation à l'agrégation j'ai écrit quelques dévelopement que vous ne trouverez dans aucun livre, les voici : 
 
-- Calcul d’intégrale par une DSE
+- [Une autre méthode pour calculer la TF de la gaussienne](/files/pdf/TFgauss.pdf)
 - [Marche aléatoire sur $\mathbb{Z}^d$](/files/pdf/MarcheAleatoire.pdf)
 <!-- - Théorème d’échantillonnage de Shannon -->
-- [Equation de Legendre](/files/pdf/Legendre.pdf)
+- [Solutions Prolongeables de l'équation de Legendre](/files/pdf/Legendre.pdf)
 <!-- - Critère de Weyl -->
 
 
