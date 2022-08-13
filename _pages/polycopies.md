@@ -13,7 +13,7 @@ Lors de ma préparation à l'agrégation j'ai écrit quelques dévelopement que 
 - [Marche aléatoire sur $\mathbb{Z}^d$](/files/pdf/MarcheAleatoire.pdf)
 <!-- - Théorème d’échantillonnage de Shannon -->
 - [Solutions Prolongeables de l'équation de Legendre](/files/pdf/Legendre.pdf)
-<!-- - Critère de Weyl -->
+- [Critère de Weyl](/files/pdf/Weyl.pdf)
 
 
 Voici égallement mon mémoire de master sur la leçon [Nombres Premiers et Applications](/files/pdf/Memoire_nb_premier.pdf)
