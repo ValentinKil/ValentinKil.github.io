@@ -10,4 +10,6 @@ redirect_from:
 
 Je suis actuellement Normalien (Fonctionnaire-stagiaire) à l'École Normale Supérieure de Rennes ([ENS Rennes](http://www.ens-rennes.fr)) au département de Mathématiques. 
 
-Cette année j'ai été reçu à l'agrégation externe de Mathématiques. J'ai écrit lors de ma préparation plusieurs documents qui seront bientôt disponibles sur cette page. 
+Cette année j'ai été reçu à la 39ème place de l'agrégation externe de Mathématiques.
+
+A la rentrée prochaine j'integrerai le [M2 Mathématiques de l'Aléatoire](https://www.universite-paris-saclay.fr/formation/master/mathematiques-et-applications/m2-mathematiques-de-laleatoire) de l'Université Paris-Saclay

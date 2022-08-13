@@ -15,7 +15,7 @@ Lors de ma préparation à l'agrégation j'ai écrit quelques dévelopements que
 - [Critère de Weyl](/files/pdf/Weyl.pdf)
 
 
-Voici égallement la liste de mes [couplages](/files/pdf/Couplage.pdf) et  mon mémoire de master sur la leçon [Nombres Premiers et Applications](/files/pdf/Memoire_nb_premier.pdf)
+Voici égallement la liste de mes [couplages](/files/pdf/Couplage.pdf) et  mon mémoire de master sur la leçon [Nombres Premiers, Applications](/files/pdf/Memoire_nb_premier.pdf)
 
 ## Stages
 
