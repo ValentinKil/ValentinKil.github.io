@@ -7,16 +7,15 @@ author_profile: true
 
 ## Développement pour l'Agrégation 
 
-Lors de ma préparation à l'agrégation j'ai écrit quelques dévelopement que vous ne trouverez dans aucun livre, les voici : 
+Lors de ma préparation à l'agrégation j'ai écrit quelques dévelopements que vous ne trouverez dans aucun livre, les voici : 
 
 - [Une autre méthode pour calculer la TF de la gaussienne](/files/pdf/TFgauss.pdf)
 - [Marche aléatoire sur $\mathbb{Z}^d$](/files/pdf/MarcheAleatoire.pdf)
-<!-- - Théorème d’échantillonnage de Shannon -->
 - [Solutions Prolongeables de l'équation de Legendre](/files/pdf/Legendre.pdf)
 - [Critère de Weyl](/files/pdf/Weyl.pdf)
 
 
-Voici égallement mon mémoire de master sur la leçon [Nombres Premiers et Applications](/files/pdf/Memoire_nb_premier.pdf)
+Voici égallement la liste de mes [couplages](/files/pdf/Couplage.pdf) et  mon mémoire de master sur la leçon [Nombres Premiers et Applications](/files/pdf/Memoire_nb_premier.pdf)
 
 ## Stages
 
