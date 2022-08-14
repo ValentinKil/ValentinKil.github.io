@@ -11,11 +11,9 @@ Lors de ma préparation à l'agrégation j'ai écrit quelques dévelopements que
 
 
 - <a href="https://valentinkil.github.io/files/pdf/TFgauss.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> Une autre méthode pour calculer la TF de la gaussienne
-- [Une autre méthode pour calculer la TF de la gaussienne](/files/pdf/TFgauss.pdf)
-- [Marche aléatoire sur $\mathbb{Z}^d$](/files/pdf/MarcheAleatoire.pdf)
-- [Solutions Prolongeables de l'équation de Legendre](/files/pdf/Legendre.pdf)
-- [Critère de Weyl](/files/pdf/Weyl.pdf)
-
+- <a href="https://valentinkil.github.io/files/pdf/MarcheAleatoire.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> Marche aléatoire sur $\mathbb{Z}^d$
+- <a href="https://valentinkil.github.io/files/pdf/Legendre.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> Solutions Prolongeables de l'équation de Legendre
+- <a href="https://valentinkil.github.io/files/pdf/Weyl.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> Critère de Weyl
 
 Voici égallement la liste de mes [couplages](/files/pdf/Couplage.pdf) et  mon mémoire de master sur la leçon [Nombres Premiers, Applications](/files/pdf/Memoire_nb_premier.pdf)
 
