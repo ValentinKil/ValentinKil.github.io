@@ -9,6 +9,8 @@ author_profile: true
 
 Lors de ma préparation à l'agrégation j'ai écrit quelques dévelopements que vous ne trouverez dans aucun livre, les voici : 
 
+
+- <a href="{{ /files/pdf/TFgauss.pdf }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> Une autre méthode pour calculer la TF de la gaussienne
 - [Une autre méthode pour calculer la TF de la gaussienne](/files/pdf/TFgauss.pdf)
 - [Marche aléatoire sur $\mathbb{Z}^d$](/files/pdf/MarcheAleatoire.pdf)
 - [Solutions Prolongeables de l'équation de Legendre](/files/pdf/Legendre.pdf)
