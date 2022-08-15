@@ -1,7 +1,7 @@
 ---
 title: "Dynamiques d’Opinions sur les Réseaux Sociaux"
-collection: publications
-permalink: /publication/dynamiques_opinions_2021
+collection: polycopies
+permalink: /polycopies/dynamiques_opinions_2021
 excerpt : "Rapport de Stage suite à mon stage à UCL and Inria sous la direction de [B.Guedj](https://bguedj.github.io) et [A. Vendeville](https://antoinevendeville.github.io)"
 date: 2021-07-22
 venue:
