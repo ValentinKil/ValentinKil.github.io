@@ -5,7 +5,11 @@ layout: compress
 {% include base_path %}
 
 <!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+<html lang="{{ page.lang }}" class="no-js">
+
+.en:lang(en), .fr:lang(fr){
+    font-weight: bold;
+}
   <head>
     {% include head.html %}
     {% include head/custom.html %}
