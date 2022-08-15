@@ -55,7 +55,7 @@
 
     {% if post.collection == 'teaching' %}
       <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-    {% elsif post.collection == 'publications' %}
+    {% elsif post.collection == 'publications' or 'polycopies' %}
      
      
 {% if post.excerpt and post.collection == 'research' and site.read_more != 'enabled' %}
