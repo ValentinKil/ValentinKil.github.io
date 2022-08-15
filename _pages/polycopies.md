@@ -24,3 +24,7 @@ Voici égallement la liste de mes [couplages](/files/pdf/Couplage.pdf) et  mon m
     {% include archive-single.html %}
   {%endif %}
 {% endfor %}
+
+{% for post in site.polycopies %}
+    {% include archive-single.html %}
+{% endfor %}
