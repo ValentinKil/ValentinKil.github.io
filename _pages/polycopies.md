@@ -19,12 +19,8 @@ Voici égallement la liste de mes [couplages](/files/pdf/Couplage.pdf) et  mon m
 
 ## Stages
 
-{% for post in site.publications %}
+{% for post in site.polycopies %}
   {%if post.path contains 'Stages' %}
     {% include archive-single.html %}
   {%endif %}
-{% endfor %}
-
-{% for post in site.polycopies %}
-    {% include archive-single.html %}
 {% endfor %}
