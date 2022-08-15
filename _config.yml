@@ -247,6 +247,14 @@ defaults:
       layout: talk
       author_profile: true
       share: false
+   # _en
+  - scope:
+      path: en
+    values:
+      layout: single
+      base-url: "/en/"
+      author_profile: true
+      share: false
 
 # Sass/SCSS
 sass:
