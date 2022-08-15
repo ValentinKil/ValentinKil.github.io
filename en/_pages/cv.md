@@ -1,13 +1,13 @@
 ---
 layout: archive
 title: "Curriculum Vitae"
-permalink: /cv/
+permalink: /en/cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /en/resume
 ---
 
-<iframe src="/files/pdf/CV classique FR.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/pdf/CV classique ENS.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 Vous pouvez télécharger mon CV au format PDF <I> (dernière mis à jour : Août 2022) </I>
  
