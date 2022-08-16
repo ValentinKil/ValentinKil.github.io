@@ -256,6 +256,20 @@ defaults:
       author_profile: true
       share: false
 
+# Value to use into url per language
+langs-value:
+    en: en
+    fr: ""
+
+# Translation
+t:
+    about-me:
+        en: "About me"
+        fr: "A propos"
+    cv:
+        en: "Resume"
+        fr: "Curriculum Vitae"
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
