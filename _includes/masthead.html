@@ -15,6 +15,13 @@
             {% endif %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
+          <div class="lang">
+            <ul>
+              {% for postTrans in postsTrans %}
+                 <li><a class="{{ postTrans.lang }}" href="{{ site.base-url }}{{ postTrans.url }}">{{ postTrans.lang }}</a></li>
+              {% endfor %}
+            </ul>
+          </div>
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
