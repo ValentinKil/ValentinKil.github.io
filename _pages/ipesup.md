@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Polycopiés"
-permalink: /polycopies/
+title: "IPESUP"
+permalink: /ipesup/
 author_profile: true
 ---
 
