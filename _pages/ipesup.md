@@ -13,5 +13,3 @@ Un kit de survie en réduction des matrices carrées
 De quoi devenir bon en calcul
 <a href="https://valentinkil.github.io/files/pdf/Calcul.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> 
 
-
-<a href="https://valentinkil.github.io/files/pdf/IPESUP"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> 
