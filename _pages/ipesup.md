@@ -13,8 +13,7 @@ Un kit de survie en réduction des matrices carrées
 De quoi devenir bon en calcul
 <a href="https://valentinkil.github.io/files/pdf/Calcul.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> 
 
-La feuille d'exercice de samedi (EML en cours, HEC en atelier)
- 
+La feuille d'exercice de samedi (EML en cours, HEC en atelier) 
 <a href="https://valentinkil.github.io/files/pdf/Analyse Samedi.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> 
 
 
