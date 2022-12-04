@@ -28,3 +28,7 @@ La recette des crêpes :
 - 200g de sucre
 - 250g de beure + 200g pour la cuisson
 - 1L de lait 
+
+
+
+On se retrouve bientôt pour le stage de noël
