@@ -13,4 +13,7 @@ Je suis actuellement Normalien (Fonctionnaire-stagiaire) à l'École Normale Sup
 
 J'étudie dans le  [M2 Mathématiques de l'Aléatoire](https://www.universite-paris-saclay.fr/formation/master/mathematiques-et-applications/m2-mathematiques-de-laleatoire) de l'Université Paris-Saclay.
 
-L'année dernière j'ai été reçu à la 39ème place de l'agrégation externe de Mathématiques.
+L'année dernière, j'ai été reçu à la 39ème place de l'agrégation externe de Mathématiques.
+
+## Séminaire des 4A 
+Cette année, Pauline Hellio et moi-même organisons le traditionnel séminaire des quatrième année de l'ENS Rennes. La première se déroulera le 10 février prochain, vous trouverez les résumés de tous les exposés présentés lors de cette journée [ici](/files/pdf/Journee4A.pdf) ainsi que ma contribution personnelle à cette journée [ici](/files/pdf/LGN.pdf) 
