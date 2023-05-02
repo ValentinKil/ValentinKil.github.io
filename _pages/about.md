@@ -16,4 +16,8 @@ J'étudie dans le  [M2 Mathématiques de l'Aléatoire](https://www.universite-pa
 L'année dernière, j'ai été reçu à la 39ème place de l'agrégation externe de Mathématiques.
 
 ## Séminaire des 4A 
-Cette année, Pauline Hellio et moi-même organisons le traditionnel séminaire des quatrième année de l'ENS Rennes. La première se déroulera le 10 février prochain, vous trouverez les résumés de tous les exposés présentés lors de cette journée [ici](/files/pdf/Journee4A.pdf) ainsi que ma contribution personnelle à cette journée [ici](/files/pdf/LGN.pdf) 
+Cette année, Pauline Hellio et moi-même organisons le traditionnel séminaire des quatrième année de l'ENS Rennes. 
+
+La première s'est déroulée le 10 février 2023, vous trouverez les résumés de tous les exposés présentés lors de cette journée [ici](/files/pdf/Journee4A.pdf) ainsi que ma contribution personnelle à cette journée [ici](/files/pdf/LGN.pdf) 
+
+La seconde se déroulera le 12 mai prochain, vous trouverez les résumés de tous les exposés présentés lors de cette journée [ici](/files/pdf/Journee4A2.pdf)
