@@ -18,6 +18,4 @@ L'année dernière, j'ai été reçu à la 39ème place de l'agrégation externe
 Actuellement je suis chercheur stagiaire au [LPSM](https://www.lpsm.paris) sous la direction de [Catherine Matias](http://cmatias.perso.math.cnrs.fr) et [Fanny Villers](https://perso.lpsm.paris/~villers/)
 
 ## Séminaire des 4A 
-Cette année, Pauline Hellio et moi-même avons organisé le traditionnel séminaire des quatrièmes années de l'ENS Rennes. 
-Les résumés de la première journée : [ici](/files/pdf/Journee4A.pdf) ainsi que ma contribution personnelle à cette journée [ici](/files/pdf/LGN.pdf) 
-Les résumès de la seconde journée [ici](/files/pdf/Journee4A2.pdf)
+Cette année, Pauline Hellio et moi-même avons organisé le traditionnel séminaire des quatrièmes années de l'ENS Rennes. Voici les résumés des exposés [Journée 1](/files/pdf/Journee4A.pdf), [Journée 2](/files/pdf/Journee4A2.pdf) ainsi que ma contribution personnelle à cette journée [ici](/files/pdf/LGN.pdf).
