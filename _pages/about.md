@@ -9,13 +9,13 @@ redirect_from:
 ref:  about
 ---
 
-Je suis Normalien (Fonctionnaire-stagiaire) à l'École Normale Supérieure de Rennes ([ENS Rennes](http://www.ens-rennes.fr)) au département de Mathématiques. 
+I am a Normalien (Fonctionnaire-stagiaire) at the École Normale Supérieure de Rennes ([ENS Rennes](http://www.ens-rennes.fr)) in the Mathematics department. 
 
-J'étudie dans le  [M2 Mathématiques de l'Aléatoire](https://www.universite-paris-saclay.fr/formation/master/mathematiques-et-applications/m2-mathematiques-de-laleatoire) de l'Université Paris-Saclay.
+I am studying in the [M2 Mathematics of Randomness](https://www.universite-paris-saclay.fr/formation/master/mathematiques-et-applications/m2-mathematiques-de-laleatoire) at the Université Paris-Saclay.
 
-L'année dernière, j'ai été reçu à la 39ème place de l'agrégation externe de Mathématiques.
+Last year, I came 39th in the agrégation externe de Mathématiques.
 
-Actuellement je suis chercheur stagiaire au [LPSM](https://www.lpsm.paris) sous la direction de [Catherine Matias](http://cmatias.perso.math.cnrs.fr) et [Fanny Villers](https://perso.lpsm.paris/~villers/)
+I am currently a research intern at the [LPSM](https://www.lpsm.paris) under the supervision of [Catherine Matias](http://cmatias.perso.math.cnrs.fr) and [Fanny Villers](https://perso.lpsm.paris/~villers/)
 
-## Séminaire des 4A 
-Cette année, Pauline Hellio et moi-même avons organisé le traditionnel séminaire des quatrièmes années de l'ENS Rennes. Voici les résumés des exposés [Journée 1](/files/pdf/Journee4A.pdf), [Journée 2](/files/pdf/Journee4A2.pdf) ainsi que ma contribution personnelle à cette journée [ici](/files/pdf/LGN.pdf).
+## 4A Seminar 
+This year, Pauline Hellio and I organised the traditional seminar for fourth-year students at ENS Rennes. Here are the summaries of the presentations [Day 1](/files/pdf/Journee4A.pdf), [Day 2](/files/pdf/Journee4A2.pdf) as well as my personal contribution to this day [here](/files/pdf/LGN.pdf).

@@ -8,8 +8,8 @@ redirect_from:
 ref: cv
 ---
 
-<iframe src="/files/pdf/CV classique FR.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/pdf/CV classique ENG.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-Vous pouvez télécharger mon CV au format PDF <I> (dernière mis à jour : Août 2022) </I>
+You can download my CV in PDF format <I>(last updated: August 2022) </I>
  
-[english](/files/pdf/CV classique ENG.pdf), [français](/files/pdf/CV classique FR.pdf) mon profil [Linkedin](http://www.linkedin.com/in/valentin-kilian-277777209/) est mis à jour plus régulièrement. 
+[english](/files/pdf/CV classique ENG.pdf), [français](/files/pdf/CV classique FR.pdf) my [Linkedin](http://www.linkedin.com/in/valentin-kilian-277777209/) profile is updated more regularly. 
