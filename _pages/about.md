@@ -9,9 +9,9 @@ redirect_from:
 ref:  about
 ---
 
-I am a Normalien (trainee civil servant) at the École Normale Supérieure de Rennes ([ENS Rennes](http://www.ens-rennes.fr)) in the Mathematics department. 
+I am a <i>Normalien</i> (trainee civil servant) at the École Normale Supérieure de Rennes ([ENS Rennes](https://international.ens-rennes.fr)) in the Mathematics department. 
 
-I am studying in the [M2 Mathematics of Randomness](https://www.universite-paris-saclay.fr/formation/master/mathematiques-et-applications/m2-mathematiques-de-laleatoire) at the Paris-Saclay University .
+I am studying at the [M2 Mathematics of Randomness](https://www.universite-paris-saclay.fr/en/education/master/mathematics-and-applications/m2-mathematics-randomness) at the Paris-Saclay University .
 
 Last year, I came 39th in the [agrégation] of Mathematics.
 
