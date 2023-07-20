@@ -13,7 +13,7 @@ I am a <i>Normalien</i> (trainee civil servant) at the École Normale Supérieur
 
 I am studying at the [M2 Mathematics of Randomness](https://www.universite-paris-saclay.fr/en/education/master/mathematics-and-applications/m2-mathematics-randomness) at the Paris-Saclay University .
 
-Last year, I came 39th in the [agrégation] of Mathematics.
+Last year, I came 39th in the  <i>[agrégation](https://en.wikipedia.org/wiki/Agrégation)</i> of Mathematics.
 
 I am currently a research intern at the [LPSM](https://www.lpsm.paris) under the supervision of [Catherine Matias](http://cmatias.perso.math.cnrs.fr) and [Fanny Villers](https://perso.lpsm.paris/~villers/)
 
