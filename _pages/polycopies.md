@@ -19,6 +19,9 @@ Lors de ma préparation à l'agrégation j'ai écrit quelques dévelopements que
 
 Voici égallement la liste de mes [couplages](/files/pdf/Couplage.pdf) et  mon mémoire de master sur la leçon [Nombres Premiers, Applications](/files/pdf/Memoire_nb_premier.pdf)
 
+## 4A Seminar 
+This year, Pauline Hellio and I organised the traditional seminar for fourth-year students at ENS Rennes. Here are the summaries of the presentations [Day 1](/files/pdf/Journee4A.pdf), [Day 2](/files/pdf/Journee4A2.pdf) as well as my personal contribution to this day [here](/files/pdf/LGN.pdf).
+
 ## Stages
 
 {% for post in site.polycopies %}
