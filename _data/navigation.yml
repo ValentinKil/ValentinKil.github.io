@@ -1,7 +1,7 @@
 # main links links
 main:
-  #- title: "Publications"
-  # url: /publications/
+  - title: "Publications"
+   url: /publications/
     
   #- title: "Research"
   # url: /research/
@@ -9,8 +9,8 @@ main:
   #- title: "Enseignement"
   #  url: /teaching/
 
-  - title: "Polycopiés"
-    url: /polycopies/
+  #- title: "Polycopiés"
+  #  url: /polycopies/
 
     
   - title: "Curriculum Vitae"
