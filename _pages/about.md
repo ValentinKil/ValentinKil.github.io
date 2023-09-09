@@ -10,7 +10,8 @@ ref:  about
 ---
 
 
-I am a PhD student at University of Oxford in the Departement of Statistics. My project is supervised by [François Caron](https://www.stats.ox.ac.uk/~caron/) and [Benjamin Guedj](https://bguedj.github.io). My research journey is supported by the Clarendon Scholarship.
+I am a PhD student at University of Oxford in the Departement of Statistics. My project is supervised by <a href="https://www.stats.ox.ac.uk/~caron/" class="special-link">François Caron</a>
+ and <a href="https://bguedj.github.io" class="special-link">Benjamin Guedj</a>. My research journey is supported by the Clarendon Scholarship.
 
 
 
