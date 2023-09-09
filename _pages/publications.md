@@ -25,7 +25,7 @@ author_profile: true
 In 2022, during my preparation for the <i>[agrégation](https://en.wikipedia.org/wiki/Agrégation)</i> I wrote a few essays (in French) that you won't find in any common book: 
 
 
-- <a href="https://valentinkil.github.io/files/pdf/TFgauss.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> Another method for calculating the FT of the Gaussian
+- <a href="https://valentinkil.github.io/files/pdf/TFgauss.pdf" class="special-link"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> Another method for calculating the FT of the Gaussian
 - <a href="https://valentinkil.github.io/files/pdf/MarcheAleatoire.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> Random walk on $\mathbb{Z}^d$
 - <a href="https://valentinkil.github.io/files/pdf/Legendre.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> Extendable solutions to the Legendre's PDE
 - <a href="https://valentinkil.github.io/files/pdf/Weyl.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> Weyl's criterion
