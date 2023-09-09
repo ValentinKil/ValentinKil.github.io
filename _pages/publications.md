@@ -12,8 +12,8 @@ author_profile: true
 {% include base_path %}
 
 ## Internships
-
-{% for post in site.polycopies %}
+{% assign reversed_posts = site.polycopies | reverse %}
+{% for post in reversed_posts %}
   {%if post.path contains 'Stages' %}
     {% include archive-single.html %}
   {%endif %}
