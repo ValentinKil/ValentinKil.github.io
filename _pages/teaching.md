@@ -14,16 +14,14 @@ All my teaching materials are available to students on the [digital campus](http
 
 While waiting for the formularies, here are some of the documents I wrote (in French) this year:
 
-- A survival kit for reducing square matrices 
-<a href="https://valentinkil.github.io/files/pdf/Reduction.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> 
+- <a href="https://valentinkil.github.io/files/pdf/Reduction.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>  A survival kit for reducing square matrices 
 
-- A survival kit for continuous probas
-<a href="https://valentinkil.github.io/files/pdf/Proba_continues.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> 
-
-- Enough to become a good calculator
-<a href="https://valentinkil.github.io/files/pdf/Calcul.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> 
+- <a href="https://valentinkil.github.io/files/pdf/Proba_continues.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>  A survival kit for continuous probas
 
 
-La recette des crêpes (if you know, you know)  <a href="https://valentinkil.github.io/files/bibtex/Recettecrepe.txt"><i class="fa fa-bookmark" aria-hidden="true"></i></a> 
+- <a href="https://valentinkil.github.io/files/pdf/Calcul.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>  Enough to become a good calculator
+
+
+ <a href="https://valentinkil.github.io/files/bibtex/Recettecrepe.txt"><i class="fa fa-bookmark" aria-hidden="true"></i></a> La recette des crêpes (if you know, you know) 
 
 
