@@ -10,7 +10,7 @@ I am a Mathematics teacher at [IPESUP](https://www.ipesup.fr)
 
 All my teaching materials are available to students on the [digital campus](https://campusnumerique.ipesup.fr/login/index.php).
 
-<b><i>Coming soon </i></b> I'm currently writing mathematics formularies for the students of the Economics and Business Prep classes. They will soon be available in the Ipesup building and online.
+<b><i>Coming soon. </i></b> I'm currently writing mathematics formularies for the students of the Economics and Business Prep classes. They will soon be available in the Ipesup building and online.
 
 While waiting for the formularies, here are some of the documents I wrote (in French) this year:
 
