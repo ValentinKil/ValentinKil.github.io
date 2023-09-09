@@ -22,7 +22,7 @@ author_profile: true
 
 ## Development for the <i>Agrégation</i>
 
-During my preparation for the <i>[agrégation](https://en.wikipedia.org/wiki/Agrégation)</i> I wrote a few essays (in French) that you won't find in any common book: 
+In 2022, during my preparation for the <i>[agrégation](https://en.wikipedia.org/wiki/Agrégation)</i> I wrote a few essays (in French) that you won't find in any common book: 
 
 
 - <a href="https://valentinkil.github.io/files/pdf/TFgauss.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> Another method for calculating the FT of the Gaussian
@@ -35,6 +35,6 @@ During my preparation for the <i>[agrégation](https://en.wikipedia.org/wiki/Agr
 Here is also the list of my [pairings](/files/pdf/Couplage.pdf) and my master's thesis on the lesson [Prime Numbers, Applications](/files/pdf/Memoire_nb_premier.pdf)
 
 ## 4A Seminar 
-This year, Pauline Hellio and I organised the traditional seminar for fourth-year students at ENS Rennes. Here are the summaries of the presentations [Day 1](/files/pdf/Journee4A.pdf), [Day 2](/files/pdf/Journee4A2.pdf) as well as my personal contribution to this day (in French) [here](/files/pdf/LGN.pdf).
+In 2023, Pauline Hellio and I organised the traditional seminar for fourth-year students at ENS Rennes. Here are the summaries of the presentations [Day 1](/files/pdf/Journee4A.pdf), [Day 2](/files/pdf/Journee4A2.pdf) as well as my personal contribution to this day (in French) [here](/files/pdf/LGN.pdf).
 
 
