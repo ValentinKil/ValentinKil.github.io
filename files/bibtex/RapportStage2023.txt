@@ -1,0 +1,9 @@
+@unpublished{kilian2023GGM,
+	author={Valentin KILIAN},
+	title={Latent graph based multiple testing : A New Approach for Gaussian Graphical Model Inference},
+	institution={Sorbonne University}
+	month={September},
+	year={2023},
+	url={}
+
+}
