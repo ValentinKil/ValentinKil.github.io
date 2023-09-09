@@ -10,7 +10,7 @@ locale                   : "fr-FR" #"en-US"
 title                    : "Valentin Kilian"
 title_separator          : "-"
 name                     : &name "Valentin Kilian"
-description              : &description "Normalien (Fonctionnaire-stagiaire) à l'École normale supérieure de Rennes au département de Mathématiques"
+description              : &description "I am a PhD student at University of Oxford in the Departement of Statistics."
 url                      : https://valentinkil.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ValentinKil/ValentinKil.github.io"
@@ -84,8 +84,8 @@ analytics:
 author:
   name             : "Valentin Kilian"
   avatar           : "profile.png"
-  bio              : "Normalien (Fonctionnaire-stagiaire) à l'École normale supérieure de Rennes au département de Mathématiques"
-  location         : "Rennes, Bretagne, France"
+  bio              : "I am a PhD student at University of Oxford in the Departement of Statistics."
+  location         : "Oxford, United Kingdom"
   employer         :
   pubmed           :
   orcid            : 
