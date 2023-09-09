@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 ## IPESUP
-I am a Mathematics teacher at [IPESUP](https://www.ipesup.fr)
+I am a Mathematics teacher at <a href="https://www.ipesup.fr" class="special-link">IPESUP</a>
+
 
 All my teaching materials are available to students on the [digital campus](https://campusnumerique.ipesup.fr/login/index.php).
 
