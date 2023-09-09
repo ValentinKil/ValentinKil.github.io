@@ -100,14 +100,14 @@ $masthead-link-color        : $primary-color;
 $masthead-link-color-hover  : mix(#fff, $link-color, 25%);
 
 .special-link {
-  color: #fff;
+  color: $gray ;
 }
 .special-link:hover {
   color: $info-color;
 }
 
 .special-link:visited {
-  color: #fff; 
+  color: $gray ; 
 }
 /*
    Breakpoints
