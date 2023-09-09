@@ -116,9 +116,7 @@ a {
     @extend %tab-focus;
   }
 
-  &:hover {
-    text-decoration: underline;
-  },
+  &:hover,
   &:active {
     outline: 0;
   }
