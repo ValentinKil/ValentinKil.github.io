@@ -7,6 +7,7 @@ author_profile: true
 ## Oxford 
 
 - Teaching Assistant for Applied Probability (HT 2024)
+
 ## IPESUP
 I am a Mathematics teacher at <a href="https://www.ipesup.fr">IPESUP</a>
 
