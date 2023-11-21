@@ -4,7 +4,9 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+## Oxford 
 
+- Teaching Assistant for Applied Probability (HT 2024)
 ## IPESUP
 I am a Mathematics teacher at <a href="https://www.ipesup.fr">IPESUP</a>
 
@@ -17,17 +19,7 @@ All my teaching materials are available to students on the [digital campus](http
 
 - <a href="https://v3.oscar-campus.com/ipesup/forms/88/LkisypCC6IQ92BTXNIBff" class="special-link"><i class="fas fa-fw fa-book zoom" aria-hidden="true"></i></a> Mathematics formularie for ECG2-Maths approdondies
 
-<b><i>Coming soon. </i></b> I'm currently writing a mathematics formulary for final year of high shcool. It will be available soon in the Ipesup building and online.
-
-While waiting for the formularies, here are some of the documents I wrote (in French) this year:
-
-- <a href="https://valentinkil.github.io/files/pdf/Reduction.pdf" class="special-link"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>  A survival kit for reducing square matrices 
-
-- <a href="https://valentinkil.github.io/files/pdf/Proba_continues.pdf" class="special-link"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>  A survival kit for continuous probas
-
-
-- <a href="https://valentinkil.github.io/files/pdf/Calcul.pdf" class="special-link"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>  Enough to become a good calculator
-
+<b><i>Coming soon. </i></b> I'm currently writing a mathematics formulary for final year of high shcool. It will be available soon in the Ipesup building and online. 
 
  <a href="https://valentinkil.github.io/files/bibtex/Recettecrepe.txt" class="special-link"><i class="fas fa-fw fa-bookmark zoom" aria-hidden="true"></i></a> La recette des crêpes (if you know, you know) 
 
