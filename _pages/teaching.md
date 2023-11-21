@@ -13,7 +13,11 @@ All my teaching materials are available to students on the [digital campus](http
 
 - <a href="https://www.ipesup.fr/blog/2023/10/09/formulaire-mathematiques-ecg1" class="special-link"><i class="fas fa-fw fa-book zoom" aria-hidden="true"></i></a> Mathematics formularie for ECG1 and the corresponding [Erratum](https://valentinkil.github.io/files/pdf/ErrataECG1.pdf) 
 
-<b><i>Coming soon. </i></b> I'm currently writing mathematics formularies for the 2nd year students of the Economics and Business Prep classes. They will soon be available in the Ipesup building and online.
+- <a href="https://v3.oscar-campus.com/ipesup/forms/87/10v20vkz3JBJ2jVs5ZnGd" class="special-link"><i class="fas fa-fw fa-book zoom" aria-hidden="true"></i></a> Mathematics formularie for ECG2-Maths appliquées
+
+- <a href="https://v3.oscar-campus.com/ipesup/forms/88/LkisypCC6IQ92BTXNIBff" class="special-link"><i class="fas fa-fw fa-book zoom" aria-hidden="true"></i></a> Mathematics formularie for ECG2-Maths approdondies
+
+<b><i>Coming soon. </i></b> I'm currently writing a mathematics formulary for final year of high shcool. It will be available soon in the Ipesup building and online.
 
 While waiting for the formularies, here are some of the documents I wrote (in French) this year:
 
