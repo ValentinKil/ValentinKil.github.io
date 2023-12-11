@@ -52,7 +52,7 @@
       {% if author.linkedin %}
        <style>
     #linkedin-icon {
-      color: mix(#000, #7a8288, 40%)
+      color: #4a4e52
     }
   </style>
         <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin" id="linkedin-icon" aria-hidden="true"></i> LinkedIn</a></li>
@@ -70,7 +70,12 @@
         <li><a href="https://bitbucket.org/{{ author.bitbucket }}"><i class="fab fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
       {% endif %}
       {% if author.github %}
-        <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+       <style>
+    #github-icon {
+      color: #4a4e52
+    }
+  </style>
+        <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" id="github-icon" aria-hidden="true"></i> GitHub</a></li>
       {% endif %}
       {% if author.gitlab %}
         <li><a href="https://gitlab.com/{{ author.github }}"><i class="fab fa-fw fa-gitlab" aria-hidden="true"></i> GitLab</a></li>
@@ -114,7 +119,7 @@
       {% if author.orcid %}
          <style>
     #orcid-icon {
-      color: mix(#000, #7a8288, 40%)
+      color: #4a4e52
     }
   </style>
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid ai-fw" id="orcid-icon"></i> ORCID</a></li>
