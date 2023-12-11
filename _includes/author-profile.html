@@ -23,7 +23,12 @@
     <button class="btn btn--inverse">Contact</button>
     <ul class="author__urls social-icons">
       {% if author.location %}
-        <li><i class="fa fa-fw fa-map-marker-alt" aria-hidden="true"></i> {{ author.location }}</li>
+        <style>
+    #loca-icon {
+      color: #4a4e52
+    }
+  </style>
+        <li><i class="fa fa-fw fa-map-marker-alt" id="loca-icon" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker-alt" aria-hidden="true"></i> {{ author.employer }}</li>
