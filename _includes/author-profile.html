@@ -52,7 +52,7 @@
       {% if author.linkedin %}
        <style>
     #linkedin-icon {
-      color: #7a8288
+      color: mix(#000, #7a8288, 40%)
     }
   </style>
         <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin" id="linkedin-icon" aria-hidden="true"></i> LinkedIn</a></li>
@@ -114,7 +114,7 @@
       {% if author.orcid %}
          <style>
     #orcid-icon {
-      color: black
+      color: mix(#000, #7a8288, 40%)
     }
   </style>
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid ai-fw" id="orcid-icon"></i> ORCID</a></li>
