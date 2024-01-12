@@ -9,8 +9,8 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  #- title: "Polycopiés"
-  #  url: /polycopies/
+  - title: "Talks"
+    url: /talks/
 
     
   - title: "Curriculum Vitae"
