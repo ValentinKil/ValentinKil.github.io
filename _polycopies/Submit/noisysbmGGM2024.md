@@ -7,7 +7,7 @@ date: 2024-02-29
 venue:
 paperurl: 'https://arxiv.org/abs/2402.19021'
 link:  
-code:  '/files/bibtex/RapportStage2021.txt'
+code:  '/files/bibtex/noisysbmGGM.txt'
 github: 'https://github.com/ValentinKil/NoisySBMforGGMinference2024'
 ---
 
