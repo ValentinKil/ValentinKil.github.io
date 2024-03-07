@@ -14,7 +14,7 @@ author_profile: true
 ## Submitted 
 {% assign reversed_posts = site.polycopies | reverse %}
 {% for post in reversed_posts %}
-  {%if post.path contains '' %}
+  {%if post.path contains 'Submit' %}
     {% include archive-single.html %}
   {%endif %}
 {% endfor %}
