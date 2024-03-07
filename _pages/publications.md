@@ -12,7 +12,6 @@ author_profile: true
 {% include base_path %}
 
 ## Submitted 
-
 {% assign reversed_posts = site.polycopies | reverse %}
 {% for post in reversed_posts %}
   {%if post.path contains 'Submit' %}
