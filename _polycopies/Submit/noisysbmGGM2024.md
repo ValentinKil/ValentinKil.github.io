@@ -9,6 +9,6 @@ paperurl: 'https://arxiv.org/abs/2402.19021'
 link:  
 code: '/files/bibtex/noisysbmGGM.txt'
 github: 'https://github.com/ValentinKil/NoisySBMforGGMinference2024'
-cran: 'https://cran.r-project.org/web/packages/noisysbmGGM/index.html'
+cran: 'https://CRAN.R-project.org/package=noisysbmGGM'
 ---
 
