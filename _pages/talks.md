@@ -15,7 +15,7 @@ author_profile: true
 
 - **[Bayes@CRIM (Marseille, Oct 2023)](https://bayesatcirm.github.io/2023/)** Poster : Improving Gaussian Graphical Model inference by learning the graph structure <a href="https://valentinkil.github.io/files/pdf/PosterMarseille.pdf" class="special-link"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 
-- **4A Seminar of ENS Rennes (Rennes,Fev & May 2023)** In 2023, Pauline Hellio and I organised the traditional seminar for fourth-year students at ENS Rennes. Here are the summaries of the presentations [Day 1](/files/pdf/Journee4A.pdf), [Day 2](/files/pdf/Journee4A2.pdf) as well as my personal contribution to this day (in French) <a href="https://valentinkil.github.io/files/pdf/LGN.pdf" class="special-link"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+- **4A Seminar of ENS Rennes (Rennes, Fev & May 2023)** In 2023, Pauline Hellio and I organised the traditional seminar for fourth-year students at ENS Rennes. Here are the summaries of the presentations [Day 1](/files/pdf/Journee4A.pdf), [Day 2](/files/pdf/Journee4A2.pdf) as well as my personal contribution to this day (in French) <a href="https://valentinkil.github.io/files/pdf/LGN.pdf" class="special-link"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 
 
 
