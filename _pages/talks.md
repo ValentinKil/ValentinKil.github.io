@@ -13,10 +13,10 @@ author_profile: true
 
 - **First Year Poster Session (Oxford, June 2024)** Poster : Modeling Extremely Sparse Networks
 
-- **[Junior Probability Seminar (Oxford, May 2024)](https://talks.ox.ac.uk/talks/series/id/a1fca4a2-7a77-4fa8-94aa-d9a817bce157)** Talk : Modelling Extremely Sparse Networks with Random Measures
-
 
 ## Past :
+
+- **[Junior Probability Seminar (Oxford, May 2024)](https://talks.ox.ac.uk/talks/series/id/a1fca4a2-7a77-4fa8-94aa-d9a817bce157)** Talk : Modelling Extremely Sparse Networks with Random Measures
 
 - **[Bayes@CRIM (Marseille, Oct 2023)](https://bayesatcirm.github.io/2023/)** Poster : Improving Gaussian Graphical Model inference by learning the graph structure <a href="https://valentinkil.github.io/files/pdf/PosterMarseille.pdf" class="special-link"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 
