@@ -11,10 +11,11 @@ author_profile: true
 
 - **[Bayesian Young Statisticians Meeting (Venice, Jun 2024)](https://events.stat.uconn.edu/BAYSM2024/)** Contributed Talk : Rapidly Varying Completely Random Measures, Applications to Extremely Sparse Networks
 
-- **First Year Poster Session (Oxford, June 2024)** Poster : Modeling Extremely Sparse Networks
-
 
 ## Past :
+
+- **First Year Poster Session (Oxford, June 2024)** Poster : Modeling Extremely Sparse Networks
+
 
 - **[Junior Probability Seminar (Oxford, May 2024)](https://talks.ox.ac.uk/talks/series/id/a1fca4a2-7a77-4fa8-94aa-d9a817bce157)** Talk : Modelling Extremely Sparse Networks with Random Measures
 
