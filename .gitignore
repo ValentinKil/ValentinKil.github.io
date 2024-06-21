@@ -8,3 +8,4 @@ _source/*_cache
 .DS_Store
 files/.DS_Store
 files/pdf/.DS_Store
+.DS_Store
