@@ -9,21 +9,16 @@ author_profile: true
 **Hillary Term 2024**
 
 Teaching Assistant for Applied Probability
-
 Tutor in Machine Learning at [OPUS](https://oxfordprogram.com)
-
 Tutor in Statistics at [Rhodes Trust](https://www.rhodeshouse.ox.ac.uk)
 
 **Trinity Term 2024**
 
 Tutor in Mathematics at [Keble College](https://www.keble.ox.ac.uk)
-
 Tutor in Statistics at [Rhodes Trust](https://www.rhodeshouse.ox.ac.uk)
 
 ## IPESUP
 I am a Mathematics teacher at <a href="https://www.ipesup.fr">IPESUP</a>
-
-
 All my teaching materials are available to students on the [digital campus](https://campusnumerique.ipesup.fr/login/index.php).
 
 - <a href="https://www.ipesup.fr/blog/2023/10/09/formulaire-mathematiques-ecg1" class="special-link"><i class="fas fa-fw fa-book zoom" aria-hidden="true"></i></a> Mathematics formularie for ECG1 and the corresponding [Erratum](https://valentinkil.github.io/files/pdf/ErrataECG1.pdf) 
