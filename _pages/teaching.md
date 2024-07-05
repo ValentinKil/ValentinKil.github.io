@@ -6,19 +6,19 @@ author_profile: true
 ---
 ## Oxford 
 
-Hillary Term 2024
+**Hillary Term 2024**
 
-* Teaching Assistant for Applied Probability
+Teaching Assistant for Applied Probability
 
-* Tutor in Machine Learning at [OPUS](https://oxfordprogram.com)
+Tutor in Machine Learning at [OPUS](https://oxfordprogram.com)
 
-* Tutor in Statistics at [Rhodes Trust](https://www.rhodeshouse.ox.ac.uk)
+Tutor in Statistics at [Rhodes Trust](https://www.rhodeshouse.ox.ac.uk)
 
-Trinity Term 2024
+**Trinity Term 2024**
 
-* Tutor in Mathematics at [Keble College](https://www.keble.ox.ac.uk)
+Tutor in Mathematics at [Keble College](https://www.keble.ox.ac.uk)
 
-* Tutor in Statistics at [Rhodes Trust](https://www.rhodeshouse.ox.ac.uk)
+Tutor in Statistics at [Rhodes Trust](https://www.rhodeshouse.ox.ac.uk)
 
 ## IPESUP
 I am a Mathematics teacher at <a href="https://www.ipesup.fr">IPESUP</a>

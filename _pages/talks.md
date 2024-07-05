@@ -7,10 +7,7 @@ author_profile: true
 
 ## Future :
 
-- **[ISBA World Metting (Venice, Jul 2024)](https://www.unive.it/web/en/2208/home)** Poster : Rapidly Varying Completely Random Measures, Applications to Extremely Sparse Networks
-
-- **[Bayesian Young Statisticians Meeting (Venice, Jun 2024)](https://events.stat.uconn.edu/BAYSM2024/)** Contributed Talk : Rapidly Varying Completely Random Measures, Applications to Extremely Sparse Networks
-
+- **[ISBA World Metting (Venice, Jul 2024)](https://www.unive.it/web/en/2208/home)** Poster : Modeling Extremely Sparse Networks
 
 ## Past :
 
