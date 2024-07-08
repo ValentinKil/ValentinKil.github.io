@@ -7,9 +7,11 @@ author_profile: true
 
 ## Future :
 
-- **[ISBA World Metting (Venice, Jul 2024)](https://www.unive.it/web/en/2208/home)** Poster : Modeling Extremely Sparse Networks
+
 
 ## Past :
+
+- **[ISBA World Metting (Venice, Jul 2024)](https://www.unive.it/web/en/2208/home)** Poster : Modeling Extremely Sparse Networks
 
 - **First Year Poster Session (Oxford, June 2024)** Poster : Modeling Extremely Sparse Networks (Awarded First Prize 🥇)
 
