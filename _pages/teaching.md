@@ -8,10 +8,16 @@ author_profile: true
 
 **Year 2023/2024**
 
-Teaching Assistant for Applied Probability in the Departement of Statistics\
+Lecturer in Mathematics and Statistics at [Balliol College](https://www.balliol.ox.ac.uk)\
+Tutor for Foundations of Statistical Inference at the Departement of Statistics\
+Tutor in Machine Learning at [OPUS](https://oxfordprogram.com)
+
+**Year 2023/2024**
+
+Tutor in Mathematics at [Keble College](https://www.keble.ox.ac.uk)\
+Teaching Assistant for Applied Probability at the Departement of Statistics\
 Tutor in Machine Learning at [OPUS](https://oxfordprogram.com)\
-Tutor in Statistics at [Rhodes Trust](https://www.rhodeshouse.ox.ac.uk)\
-Tutor in Mathematics at [Keble College](https://www.keble.ox.ac.uk)
+Tutor in Statistics at [Rhodes Trust](https://www.rhodeshouse.ox.ac.uk)
 
 ## IPESUP
 I am a Mathematics teacher at <a href="https://www.ipesup.fr">IPESUP</a>\
