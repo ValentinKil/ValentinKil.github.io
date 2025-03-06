@@ -13,7 +13,7 @@ Talk : Modelling Extremely Sparse Networks with Random Measures
 - **[StatML & Bocconi Spring School 2025](https://statml.io/index.php/statml-bocconi-spring-school-2025-uk-edition/)**\
 Poster : Modeling Extremely Sparse Networks
 
-- **Young Statistician Seminar (Oxford, Mar 2025)**\
+- **Young Statisticians Seminar (Oxford, Mar 2025)**\
 Talk : Modelling Extremely Sparse Networks with Random Measures
 
 - **Second Year Poster Session (Oxford, Mar 2025)** \
