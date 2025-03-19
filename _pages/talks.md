@@ -17,7 +17,7 @@ Poster : Modeling Extremely Sparse Networks
 
 ## Past :
 
-- **[Young Statisticians Seminar (Oxford, Mar 2025)](https://youngstatmlseminar.github.io/website/)**\
+- **[Young Statisticians Seminar (Oxford, Mar 2025)](https://youngstatmlseminar.github.io/)**\
 Talk : Modelling Extremely Sparse Networks with Random Measures
 
 - **Second Year Poster Session (Oxford, Mar 2025)** \
