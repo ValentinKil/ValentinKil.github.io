@@ -7,6 +7,9 @@ author_profile: true
 
 ## Future :
 
+- **UCL CDT & AI Centre Retreat (Missenden Abbey, May 2025)**\
+Talk : Modelling Extremely Sparse Networks
+
 - **[Bayesian Young Statisticians Meeting 2025 (Online, Apr 2025)](https://baysm2025.github.io)**\
 Talk : Modelling Extremely Sparse Networks with Random Measures
 
