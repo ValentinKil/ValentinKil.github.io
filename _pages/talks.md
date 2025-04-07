@@ -10,15 +10,15 @@ author_profile: true
 - **UCL CDT & AI Centre Retreat (Missenden Abbey, May 2025)**\
 Talk : Modelling Extremely Sparse Networks
 
-- **[Bayesian Young Statisticians Meeting 2025 (Online, Apr 2025)](https://baysm2025.github.io)**\
-Talk : Modelling Extremely Sparse Networks with Random Measures
-
 - **[StatML & Bocconi Spring School 2025 (Windsor, Apr 2025)](https://statml.io/index.php/statml-bocconi-spring-school-2025-uk-edition/)**\
 Poster : Modeling Extremely Sparse Networks
 
 
 
 ## Past :
+- **[Bayesian Young Statisticians Meeting 2025 (Online, Apr 2025)](https://baysm2025.github.io)**\
+Talk with discussion : Modelling Extremely Sparse Networks with Random Measures \(Discussant: [Matteo Iacopini
+](https://matteoiacopini.github.io))
 
 - **[Young Statisticians Seminar (Oxford, Mar 2025)](https://youngstatmlseminar.github.io/)**\
 Talk : Modelling Extremely Sparse Networks with Random Measures
