@@ -7,8 +7,8 @@ author_profile: true
 
 ## Future:
 
-- **[Advances in post-Bayesian methods (London, May 2025)**\
-Talk: Confidence sequences with informative, bounded-influence priors
+- **[Advances in post-Bayesian methods (London, May 2025)](https://postbayes.github.io/workshop2025/)**\
+Contributed talk: Confidence sequences with informative, bounded-influence priors
 
 - **UCL CDT & AI Centre Retreat (Missenden Abbey, May 2025)**\
 Talk: Modelling Extremely Sparse Networks
