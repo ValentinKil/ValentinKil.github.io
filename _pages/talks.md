@@ -7,13 +7,13 @@ author_profile: true
 
 ## Future:
 
+## Past:
+
 - **[Advances in post-Bayesian methods (London, May 2025)](https://postbayes.github.io/workshop2025/)**\
 Contributed talk: Confidence sequences with informative, bounded-influence priors
 
 - **UCL CDT & AI Centre Retreat (Missenden Abbey, May 2025)**\
 Talk: Modelling Extremely Sparse Networks
-
-## Past:
 
 - **[StatML & Bocconi Spring School 2025 (Windsor, Apr 2025)](https://statml.io/index.php/statml-bocconi-spring-school-2025-uk-edition/)**\
 Poster: Modeling Extremely Sparse Networks
