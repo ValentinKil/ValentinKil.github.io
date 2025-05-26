@@ -1,0 +1,8 @@
+@misc{Kilian2025ppics,
+      title={Anytime-valid, Bayes-assisted,Prediction-Powered Inference}, 
+      author={Valentin Kilian and Stefano Cortinovis and François Caron},
+      year={2025},
+      eprint={2505.18000},
+      archivePrefix={arXiv},
+      primaryClass={math.ST}
+}
