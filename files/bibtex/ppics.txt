@@ -4,5 +4,5 @@
       year={2025},
       eprint={2505.18000},
       archivePrefix={arXiv},
-      primaryClass={math.ST}
+      primaryClass={stat.ML}
 }

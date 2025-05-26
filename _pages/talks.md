@@ -7,7 +7,7 @@ author_profile: true
 
 ## Future:
 
-- **[Accelerating statistical inference and experimental design with machine learning (Cambridge,Jun 2025)](https://www.newton.ac.uk/event/RCLW03/)**\
+- **[Accelerating statistical inference and experimental design with machine learning (Cambridge, Jun 2025)](https://www.newton.ac.uk/event/RCLW03/)**\
 Poster : Anytime-valid, Bayes-assisted, Prediction-Powered Inference
 
 ## Past:
