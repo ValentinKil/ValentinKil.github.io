@@ -25,7 +25,7 @@ Poster: Modeling Extremely Sparse Networks
 Talk with discussion : Modelling Extremely Sparse Networks (Awarded Best Long Talk 🥇)
 Discussant: [Matteo Iacopini](https://matteoiacopini.github.io)
 
-- **[Young Statisticians Seminar (Oxford, Mar 2025)](https://youngstatmlseminar.github.io/)**\
+- **[Oxford Young Statisticians Seminar (Oxford, Mar 2025)](https://youngstatmlseminar.github.io/)**\
 Talk: Modelling Extremely Sparse Networks
 
 - **Second Year Poster Session (Oxford, Mar 2025)** \
