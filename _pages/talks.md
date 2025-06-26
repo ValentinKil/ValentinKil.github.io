@@ -7,10 +7,13 @@ author_profile: true
 
 ## Future:
 
-- **[Accelerating statistical inference and experimental design with machine learning (Cambridge, Jun 2025)](https://www.newton.ac.uk/event/RCLW03/)**\
+- **[Pre ICLM @ London 2025 (London, Jul 2025)](https://sites.google.com/u/0/d/1nKYcypo8T-HhQW07yZA-mpwHq4dUhD8l/preview?pli=1&authuser=0)**\
 Poster : Anytime-valid, Bayes-assisted, Prediction-Powered Inference
 
 ## Past:
+
+- **[Accelerating statistical inference and experimental design with machine learning (Cambridge, Jun 2025)](https://www.newton.ac.uk/event/RCLW03/)**\
+Poster : Anytime-valid, Bayes-assisted, Prediction-Powered Inference
 
 - **[Advances in post-Bayesian methods (London, May 2025)](https://postbayes.github.io/workshop2025/)**\
 Contributed talk: Confidence sequences with informative, bounded-influence priors
