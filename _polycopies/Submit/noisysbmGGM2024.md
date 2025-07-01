@@ -7,7 +7,7 @@ date: 2024-02-29
 venue:
 paperurl: 'https://arxiv.org/abs/2402.19021'
 link:  
-code: '/files/bibtex/noisysbmGGM.txt'
+code:
 github: 'https://github.com/ValentinKil/NoisySBMforGGMinference2024'
 cran: 'https://CRAN.R-project.org/package=noisysbmGGM'
 ---

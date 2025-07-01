@@ -7,7 +7,7 @@ date: 2025-05-23
 venue:
 paperurl: 'http://arxiv.org/abs/2505.18000'
 link:  
-code: '/files/bibtex/ppics.txt'
-github: ''
+code:
+github:
 ---
 

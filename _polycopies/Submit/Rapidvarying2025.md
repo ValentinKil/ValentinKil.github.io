@@ -7,7 +7,7 @@ date: 2025-05-20
 venue:
 paperurl: 'https://arxiv.org/abs/2505.13206'
 link:  
-code: '/files/bibtex/rapidvarying.txt'
+code: 
 github: 'https://github.com/ValentinKil/rapidly_varying_crm'
 ---
 
