@@ -4,13 +4,16 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-## Oxford 
+## Oxford
 
-**Year 2023/2024**
+My tutorial on <a href="https://valentinkil.github.io/blog/ARCPythonTutorial/" class="special-link">How to use Python on ARC</a>.
+
+**Year 2024/2025**
 
 Lecturer in Mathematics and Statistics at [Balliol College](https://www.balliol.ox.ac.uk)\
-Tutor for Foundations of Statistical Inference at the Departement of Statistics\
 Tutor in Machine Learning at [OPUS](https://oxfordprogram.com)
+
+
 
 **Year 2023/2024**
 
