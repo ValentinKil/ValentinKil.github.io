@@ -8,9 +8,16 @@ author_profile: true
 
 My tutorial on <a href="https://valentinkil.github.io/blog/ARCPythonTutorial/" class="special-link">How to use Python on ARC</a>.
 
+**Year 2025/2026**
+
+Lecturer in Mathematics and Statistics at [Balliol College](https://www.balliol.ox.ac.uk)\
+Tutor in Machine Learning at [OPUS](https://oxfordprogram.com)
+
+
 **Year 2024/2025**
 
 Lecturer in Mathematics and Statistics at [Balliol College](https://www.balliol.ox.ac.uk)\
+Tutor for Foundations of Statistical Inference at the Departement of Statistics\
 Tutor in Machine Learning at [OPUS](https://oxfordprogram.com)
 
 
