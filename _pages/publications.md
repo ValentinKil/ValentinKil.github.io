@@ -11,6 +11,14 @@ author_profile: true
 
 {% include base_path %}
 
+##Conferences
+{% assign reversed_posts = site.polycopies | reverse %}
+{% for post in reversed_posts %}
+  {%if post.path contains 'Conference' %}
+    {% include archive-single.html %}
+  {%endif %}
+{% endfor %}
+
 ## Submitted 
 {% assign reversed_posts = site.polycopies | reverse %}
 {% for post in reversed_posts %}
