@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-##Conferences
+## Conferences
 {% assign reversed_posts = site.polycopies | reverse %}
 {% for post in reversed_posts %}
   {%if post.path contains 'Conference' %}
