@@ -10,6 +10,9 @@ author_profile: true
 - **[NeurIPS 2025 (San Diego, Dec 2025)](https://neurips.cc/Conferences/2025)**\
 Poster : Anytime-valid, Bayes-assisted, Prediction-Powered Inference
 
+-**[SPIGM @ NeurIPS2025 Workshop (San Diego, Dec 2025)](https://spigmworkshopv3.github.io)**\
+Poster : Inference and Generating Method for Extremely Sparse Networks
+
 ## Past:
 
 - **[Pre ICLM @ London 2025 (London, Jul 2025)](https://sites.google.com/u/0/d/1nKYcypo8T-HhQW07yZA-mpwHq4dUhD8l/preview?pli=1&authuser=0)**\
