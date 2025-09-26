@@ -14,7 +14,7 @@ You can download my CV in PDF format : <a href="https://valentinkil.github.io/fi
 
 My <a href="http://www.linkedin.com/in/valentin-kilian-277777209/" class="special-link">Linkedin</a> profile is updated more regularly. 
 
-# Grants and Awards
+## Grants and Awards
 
 - Contribution to the Department Award (2025)
 - Best Long Talk at the Bayesian Young Statisticians Meeting 2025 (2025)
