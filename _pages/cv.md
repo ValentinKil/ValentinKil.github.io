@@ -16,9 +16,11 @@ My <a href="http://www.linkedin.com/in/valentin-kilian-277777209/" class="specia
 
 ## Grants and Awards
 
-- Contribution to the Department Award (2025)
-- Best Long Talk at the Bayesian Young Statisticians Meeting 2025 (2025)
-- First Prize in the Second Year Poster Session at the Department of Statistics (2025)
-- Contribution to the Department Award (2024)
-- First Prize in the First Year Poster Session at the Department of Statistics (2024)
-- ISBA World Meeting Travel Award (2024)
+- NeurIPS Travel Award (October 2025)
+- [G-Research Grant](https://www.gresearch.com/news/g-research-september-2025-grant-winners/) (September 2025)
+- Contribution to the Department Award (July 2025)
+- Best Long Talk at the Bayesian Young Statisticians Meeting 2025 (April 2025)
+- First Prize in the Second Year Poster Session at the Department of Statistics (March 2025)
+- Contribution to the Department Award (July 2024)
+- ISBA World Meeting Travel Award (June 2024)
+- First Prize in the First Year Poster Session at the Department of Statistics (May 2024)
