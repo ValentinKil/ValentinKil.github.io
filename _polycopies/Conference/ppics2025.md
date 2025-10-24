@@ -8,6 +8,6 @@ venue:
 paperurl: 'http://arxiv.org/abs/2505.18000'
 link:  
 code:
-github:
+github: 'https://github.com/stefanocortinovis/ppi-cs'
 ---
 
