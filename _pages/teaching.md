@@ -11,7 +11,8 @@ My tutorial on <a href="https://valentinkil.github.io/blog/ARCPythonTutorial/" c
 **Year 2025/2026**
 
 Lecturer in Mathematics and Statistics at [Balliol College](https://www.balliol.ox.ac.uk)\
-Tutor in Machine Learning at [OPUS](https://oxfordprogram.com)
+Tutor in Machine Learning at [OPUS](https://oxfordprogram.com)\
+CDT Module: Statistics in AI Module, session on Advanced Prediction-Powered Inference
 
 
 **Year 2024/2025**

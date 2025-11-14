@@ -19,7 +19,7 @@ Poster: Anytime-valid, Bayes-assisted, Prediction-Powered Inference
 - **[SPIGM @ NeurIPS2025 Workshop (San Diego, Dec 2025)](https://spigmworkshopv3.github.io)**\
 Poster: Inference and Generating Method for Extremely Sparse Networks
 
-- **Third Year Graduate Talks (Oxford, Nov 2025)**
+- **Third Year Graduate Talks (Oxford, Nov 2025)**\
 Talk: A survey on the LambertW function
 
 ## Past:
