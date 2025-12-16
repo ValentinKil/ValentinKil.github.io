@@ -13,6 +13,11 @@ Invited talk: Modelling Extremely Sparse Networks
 - **[ISBA World Meeting (Nagoya, Jul 2026)](https://isba2026.github.io)**\
 Invited talk: Modelling Extremely Sparse Networks
 
+- **[MPLS Researcher Conference: AI & Ethics (Oxford, Jan 2026)](MPLS Researcher Conference: AI & Ethics)**\
+Lightning talk and Poster: Confidence sequences with informative, bounded-influence priors
+
+## Past:
+
 - **[NeurIPS 2025 (San Diego, Dec 2025)](https://neurips.cc/Conferences/2025)**\
 Poster: Anytime-valid, Bayes-assisted, Prediction-Powered Inference
 
@@ -21,8 +26,6 @@ Poster: Inference and Generating Method for Extremely Sparse Networks
 
 - **Third Year Graduate Talks (Oxford, Nov 2025)**\
 Talk: A survey on the LambertW function
-
-## Past:
 
 - **[Pre ICLM @ London 2025 (London, Jul 2025)](https://sites.google.com/u/0/d/1nKYcypo8T-HhQW07yZA-mpwHq4dUhD8l/preview?pli=1&authuser=0)**\
 Poster: Anytime-valid, Bayes-assisted, Prediction-Powered Inference
