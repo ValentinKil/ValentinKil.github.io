@@ -13,7 +13,7 @@ Invited talk: Modelling Extremely Sparse Networks
 - **[ISBA World Meeting (Nagoya, Jul 2026)](https://isba2026.github.io)**\
 Invited talk: Modelling Extremely Sparse Networks
 
-- **[MPLS Researcher Conference: AI & Ethics (Oxford, Jan 2026)](MPLS Researcher Conference: AI & Ethics)**\
+- **[MPLS Researcher Conference: AI & Ethics (Oxford, Jan 2026)](https://www.mpls.ox.ac.uk/training/mpls-researcher-conference)**\
 Lightning talk and Poster: Confidence sequences with informative, bounded-influence priors
 
 ## Past:
