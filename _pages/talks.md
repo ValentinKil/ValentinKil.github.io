@@ -19,7 +19,7 @@ Poster (Finalist in the Maths category): Modelling the Real World: A  New Framew
 
 ## Past:
 
-- **[OXCSML Seminar (Oxford, Jan 2026)](https://www.stats.ox.ac.uk/computational-statistics-and-machine-learning)**
+- **[OxCSML Seminar (Oxford, Jan 2026)](https://www.stats.ox.ac.uk/computational-statistics-and-machine-learning)**\
 Talk: Comparative study of the French and British STEM academic systems 
 
 - **[MPLS Researcher Conference: AI & Ethics (Oxford, Jan 2026)](https://www.mpls.ox.ac.uk/training/mpls-researcher-conference)**\
