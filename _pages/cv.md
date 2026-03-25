@@ -16,6 +16,8 @@ My <a href="http://www.linkedin.com/in/valentin-kilian-277777209/" class="specia
 
 ## Grants and Awards
 
+- London Mathematical Society Early Career Research Travel Grant (March 2026)
+- Finalist in the Maths category at [STEM in Britain](https://stemforbritain.org.uk) (March 2026)
 - NeurIPS Travel Award (October 2025)
 - [G-Research Grant](https://www.gresearch.com/news/g-research-september-2025-grant-winners/) (September 2025)
 - Contribution to the Department Award (July 2025)

@@ -13,11 +13,12 @@ Invited talk: Modelling Extremely Sparse Networks
 - **[ISBA World Meeting (Nagoya, Jul 2026)](https://isba2026.github.io)**\
 Invited talk: Modelling Extremely Sparse Networks
 
+
+## Past:
+
 - **[STEM in Britain (London, March 2026)](https://stemforbritain.org.uk)**\
 Poster (Finalist in the Maths category): Modelling the Real World: A  New Framework for Extremely Sparse Networks
 
-
-## Past:
 
 - **[OxCSML Seminar (Oxford, Jan 2026)](https://www.stats.ox.ac.uk/computational-statistics-and-machine-learning)**\
 Talk: Comparative study of the French and British STEM academic systems 
