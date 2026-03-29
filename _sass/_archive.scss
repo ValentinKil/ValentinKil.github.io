@@ -227,4 +227,13 @@
 ol.bibliography {
   list-style-type: none;
   padding-left: 0;
+
+  .title {
+    font-weight: bold;
+    color: $info-color;
+
+    a {
+      color: $info-color;
+    }
+  }
 }
