@@ -41,13 +41,13 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.3.5"
-          bundler-cache: false # Manual install below to fix lockfile mismatch
+          bundler-cache: true # This automatically runs 'bundle install' and caches gems
 
       - name: Setup Python 🐍
         uses: actions/setup-python@v5
         with:
           python-version: "3.13"
-          cache: "pip"
+          # Removed cache: "pip" to prevent the error since requirements.txt is missing
 
       - name: Cache Jekyll 💾
         uses: actions/cache@v4
@@ -68,10 +68,6 @@ jobs:
 
       - name: Install and Build 🔧
         run: |
-          # Fix the "frozen" error by allowing the lockfile to update
-          bundle config set --local frozen false
-          bundle install
-          
           # Install notebook tools
           pip3 install nbconvert
           
