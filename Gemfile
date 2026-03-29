@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 ruby '3.3.4'
 
-# We use Jekyll 4 for better performance and compatibility with Scholar 7
+# Core Jekyll 4
 gem "jekyll", "~> 4.3"
 
 group :jekyll_plugins do
@@ -10,7 +10,9 @@ group :jekyll_plugins do
   gem "jekyll-sitemap", "~> 1.4"
   gem "jekyll-seo-tag", "~> 2.8"
   gem "jekyll-scholar", "~> 7.1"
-  gem "jekyll-remote-theme", "~> 0.4" # Needed if you use a remote theme
+  gem "jekyll-paginate", "~> 1.1"      # Added this to fix the error
+  gem "jekyll-remote-theme", "~> 0.4"
+  gem "jekyll-include-cache", "~> 0.2" # Highly recommended for performance
 end
 
 # Keep this for Windows compatibility
