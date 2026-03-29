@@ -12,9 +12,11 @@ ref:  about
 I am a PhD student at the University of Oxford in the Department of Statistics. My project is supervised by <a href="https://www.stats.ox.ac.uk/~caron/" class="special-link">François Caron</a> and <a href="https://bguedj.github.io" class="special-link">Benjamin Guedj</a>, and my research is supported by the Clarendon Scholarship.
 
 **My research interests lie in :**
-- **Statistical models for the analysis of real-world networks (sparse graphs)**
-- **Anytime-valid methods for Statistics and Machine Learning**
-- **E-values and applications**
+- **Anytime-valid Inference:** Developing sequential statistical methods that remain valid under continuous monitoring and optional stopping using e-values.
+
+- **Trustworthy Machine Learning:** Improving the power and efficiency of uncertainty quantification through Bayes-assistance and Prediction-Powered Inference (PPI).
+
+- **BNP for Network Modelling:** Bayesian nonparametric statistical modeling of real-world networks.
 
 
 I'm a Lecturer in Mathematics and Statistics at [Balliol College](https://www.balliol.ox.ac.uk)
