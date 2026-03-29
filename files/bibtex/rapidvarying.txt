@@ -1,8 +1,0 @@
-@misc{Kilian2025rapidly,
-      title={Rapidly Varying Completely Random Measures for Modeling Extremely Sparse Networks}, 
-      author={Valentin Kilian and Benjamin Guedj and François Caron},
-      year={2025},
-      eprint={2505.13206},
-      archivePrefix={arXiv},
-      primaryClass={math.ST}
-}

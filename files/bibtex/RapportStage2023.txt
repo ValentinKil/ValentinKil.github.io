@@ -1,9 +1,0 @@
-@unpublished{kilian2023GGM,
-	author={Valentin KILIAN},
-	title={Inference of Gaussian Graphical Models using multiple testing and latent graph structure},
-	institution={Sorbonne University}
-	month={September},
-	year={2023},
-	url={}
-
-}

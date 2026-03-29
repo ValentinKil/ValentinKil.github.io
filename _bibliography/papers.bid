@@ -1,27 +1,41 @@
-@misc{Kilian2024noisySBM,
-      title={Enhancing the Power of Gaussian Graphical Model Inference by Modeling the Graph Structure}, 
-      author={Valentin Kilian and Tabea Rebafka and Fanny Villers},
-      year={2024},
-      eprint={2402.19021},
-      archivePrefix={arXiv},
-      primaryClass={stat.ME}
-}
-
-
-@misc{Kilian2025ppics,
-      title={Anytime-valid, Bayes-assisted,Prediction-Powered Inference}, 
-      author={Valentin Kilian and Stefano Cortinovis and François Caron},
+@misc{cortinovis2025robustcs
+      title={Confidence sequences with informative, bounded-influence priors}, 
+      author={Stefano Cortinovis and Valentin Kilian and François Caron},
       year={2025},
-      eprint={2505.18000},
+      eprint={2506.22925},
       archivePrefix={arXiv},
-      primaryClass={stat.ML}
+      primaryClass={stat.ME},
+      url={https://arxiv.org/abs/2506.22925}, 
 }
 
-@misc{Kilian2025rapidly,
+
+@article{kilian2025ppics,
+  title={Anytime-valid, Bayes-assisted, Prediction-Powered Inference},
+  author={Kilian, Valentin and Cortinovis, Stefano and Caron, Fran{\c{c}}ois},
+  journal={Neural Information Processing Systems},
+  year={2025},
+  url={https://arxiv.org/abs/2505.18000},
+  code={https://github.com/stefanocortinovis/ppi-cs},
+}
+
+@misc{kilian2025rapidcrm,
       title={Rapidly Varying Completely Random Measures for Modeling Extremely Sparse Networks}, 
       author={Valentin Kilian and Benjamin Guedj and François Caron},
       year={2025},
       eprint={2505.13206},
       archivePrefix={arXiv},
-      primaryClass={math.ST}
+      primaryClass={math.ST},
+      url={https://arxiv.org/abs/2505.13206}, 
+      code={https://github.com/ValentinKil/rapidly_varying_crm},
+}
+
+@misc{kilian2024noisyggm,
+      title={Enhancing the Power of Gaussian Graphical Model Inference by Modeling the Graph Structure}, 
+      author={Valentin Kilian and Tabea Rebafka and Fanny Villers},
+      year={2024},
+      eprint={2402.19021},
+      archivePrefix={arXiv},
+      primaryClass={stat.ME},
+      url={https://arxiv.org/abs/2402.19021}, 
+      code={https://github.com/ValentinKil/NoisySBMforGGMinference2024},
 }
