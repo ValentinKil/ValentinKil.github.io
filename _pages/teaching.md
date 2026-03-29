@@ -31,8 +31,7 @@ Tutor in Machine Learning at [OPUS](https://oxfordprogram.com)\
 Tutor in Statistics at [Rhodes Trust](https://www.rhodeshouse.ox.ac.uk)
 
 ## IPESUP
-I am a Mathematics teacher at <a href="https://www.ipesup.fr">IPESUP</a>\
-All my teaching materials are available to students on the [digital campus](https://campusnumerique.ipesup.fr/login/index.php) and physically in the Ipesup building
+I was a Mathematics teacher at <a href="https://www.ipesup.fr">IPESUP</a>. All my teaching materials are available to students on the [digital campus](https://campusnumerique.ipesup.fr/login/index.php) and physically in the Ipesup building
 
 - <a href="https://www.ipesup.fr/blog/2023/10/09/formulaire-mathematiques-ecg1" class="special-link"><i class="fas fa-fw fa-book zoom" aria-hidden="true"></i></a> Mathematics formulary for ECG1 and the corresponding [Erratum](https://valentinkil.github.io/files/pdf/ErrataECG1.pdf) 
 - <a href="https://v3.oscar-campus.com/ipesup/forms/87/10v20vkz3JBJ2jVs5ZnGd" class="special-link"><i class="fas fa-fw fa-book zoom" aria-hidden="true"></i></a> Mathematics formulary for ECG2-Maths appliquées
