@@ -40,7 +40,7 @@ jobs:
       - name: Setup Ruby 💎
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: "3.3.5"
+          ruby-version: "3.3.4"
           bundler-cache: true # This automatically runs 'bundle install' and caches gems
 
       - name: Setup Python 🐍
