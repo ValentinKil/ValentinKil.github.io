@@ -8,7 +8,7 @@ redirect_from:
 ref: cv
 ---
 
-<iframe src="/files/pdf/CV ENG.pdf" width="100%" height="1200" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/pdf/CV ENG.pdf" width="100%" height="1100" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 You can download my CV in PDF format : <a href="https://valentinkil.github.io/files/pdf/CV ENG.pdf" class="special-link">english</a> <I>(last updated: Sep 2025) </I>.
 
