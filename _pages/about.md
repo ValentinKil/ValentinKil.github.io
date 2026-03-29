@@ -9,7 +9,8 @@ redirect_from:
 ref:  about
 ---
 
-I am a PhD student at the University of Oxford in the Department of Statistics. My project is supervised by <a href="https://www.stats.ox.ac.uk/~caron/" class="special-link">François Caron</a> and <a href="https://bguedj.github.io" class="special-link">Benjamin Guedj</a>, and my research is supported by the Clarendon Scholarship.
+I am a PhD student at the University of Oxford in the Department of Statistics. My project is supervised by <a href="https://www.stats.ox.ac.uk/~caron/" class="special-link">François Caron</a> and <a href="https://bguedj.github.io" class="special-link">Benjamin Guedj</a>, and my research is supported by the Clarendon Scholarship. I organise the <a href="https://youngstatmlseminar.github.io" class="special-link">Oxford Young Statisticians Seminar</a>.
+
 
 **My research interests lie in :**
 - **Anytime-valid Inference:** Developing sequential statistical methods that remain valid under continuous monitoring and optional stopping using e-values.
@@ -20,8 +21,6 @@ I am a PhD student at the University of Oxford in the Department of Statistics. 
 
 
 I'm a Lecturer in Mathematics and Statistics at [Balliol College](https://www.balliol.ox.ac.uk)
-
-I organise the <a href="https://youngstatmlseminar.github.io" class="special-link">Oxford Young Statistician Seminar</a>.
 
 I regularly serve as a reviewer for conferences and journals including NeurIPS, ICML, ICLR, AISTATS, and TMLR.
 
