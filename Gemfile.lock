@@ -225,10 +225,11 @@ DEPENDENCIES
   github-pages
   hawkins
   jekyll-feed
+  jekyll-scholar
   jekyll-sitemap
 
 RUBY VERSION
-   ruby 2.7.4p191
+   ruby 3.3.4p114
 
 BUNDLED WITH
    2.2.24
