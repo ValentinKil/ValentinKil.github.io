@@ -270,3 +270,25 @@ h2.bibliography {
     background-color: $light-gray;
   }
 }
+
+/* Custom style for the talk section headings (Future, Past) */
+h2.talks-section {
+  position: relative;
+  text-align: right;
+  color: $light-gray;
+  font-size: $type-size-5;
+  margin-top: 3em;
+  margin-bottom: 1em;
+  padding-top: 0.5em;
+  border-bottom: none;
+
+  &::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 1px;
+    background-color: $light-gray;
+  }
+}
