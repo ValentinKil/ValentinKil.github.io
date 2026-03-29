@@ -241,6 +241,8 @@ ol.bibliography {
     background-color: $light-gray;
     color: #444; /* A dark gray for text contrast */
     border: 1px solid darken($light-gray, 10%);
+    padding: 0.2em 0.6em; /* Reduces the space inside the button */
+    font-size: $type-size-7; /* Makes the text slightly smaller */
 
     &:hover {
       background-color: darken($light-gray, 5%);

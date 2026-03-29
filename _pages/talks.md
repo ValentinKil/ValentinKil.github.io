@@ -7,12 +7,12 @@ author_profile: true
 
 <h2 class="talks-section">Future</h2>
 
-**[The 4th Bayesian Nonparametrics Networking Workshop (Seoul, Jul 2026)](https://bnpnetworking2026.github.io)**
+**[The 4th Bayesian Nonparametrics Networking Workshop (Seoul, Jul 2026)](https://bnpnetworking2026.github.io)**\
 Invited talk: Modelling Extremely Sparse Networks
 
 <h2 class="talks-section">Past</h2>
 
-**[ISBA World Meeting (Nagoya, Jul 2026)](https://isba2026.github.io)**
+**[ISBA World Meeting (Nagoya, Jul 2026)](https://isba2026.github.io)**\
 Invited talk: Modelling Extremely Sparse Networks
 
 
