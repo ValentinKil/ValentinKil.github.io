@@ -14,6 +14,8 @@ I am a PhD student at the University of Oxford in the Department of Statistics. 
 **My research interests lie in :**
 - **Statistical models for the analysis of real-world networks (sparse graphs)**
 - **Anytime-valid methods for Statistics and Machine Learning**
+- **E-values and applications**
+
 
 I'm a Lecturer in Mathematics and Statistics at [Balliol College](https://www.balliol.ox.ac.uk)
 
