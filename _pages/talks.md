@@ -10,11 +10,10 @@ author_profile: true
 **[The 4th Bayesian Nonparametrics Networking Workshop (Seoul, Jul 2026)](https://bnpnetworking2026.github.io)**\
 Invited talk: Modelling Extremely Sparse Networks
 
-<h2 class="talks-section">Past</h2>
-
 **[ISBA World Meeting (Nagoya, Jul 2026)](https://isba2026.github.io)**\
 Invited talk: Modelling Extremely Sparse Networks
 
+<h2 class="talks-section">Past</h2>
 
 **[STEM in Britain (London, March 2026)](https://stemforbritain.org.uk)**\
 Poster (Finalist in the Maths category): Modelling the Real World: A  New Framework for Extremely Sparse Networks
