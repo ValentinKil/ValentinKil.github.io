@@ -1,7 +1,40 @@
-<div class="row" style="margin-bottom: 1rem;">
-  <div id="{{ entry.key }}" class="col-sm-12">
+---
+---
+<div class="row" style="margin-bottom: 2rem; list-style: none;">
+  {% if site.enable_publication_thumbnails %}
+    <div class="col col-sm-2 abbr">
+      {%- if entry.abbr -%}
+        {%- if site.data.venues[entry.abbr] -%}
+          {% assign venue_style = null %}
+          {% if site.data.venues[entry.abbr].color != blank %}
+            {% assign venue_style = site.data.venues[entry.abbr].color | prepend: 'style="background-color:' | append: '"' %}
+          {%- endif -%}
+          <abbr class="badge rounded w-100" {% if venue_style %}{{ venue_style }}{% endif %}>
+            {% if site.data.venues[entry.abbr].url %}
+              <a href="{{ site.data.venues[entry.abbr].url }}">{{ entry.abbr }}</a>
+            {% else %}
+              <div>{{- entry.abbr -}}</div>
+            {% endif %}
+          </abbr>
+        {% else %}
+          <abbr class="badge rounded w-100">{{ entry.abbr }}</abbr>
+        {% endif %}
+      {% endif %}
+      
+      {% if entry.preview %}
+        {% if entry.preview contains '://' %}
+          <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
+        {% else %}
+          {% assign entry_path = entry.preview | prepend: '/assets/img/publication_preview/' %}
+          {% include figure.liquid loading="eager" path=entry_path sizes="200px" class="preview z-depth-1 rounded" zoomable=true avoid_scaling=true alt=entry.preview %}
+        {% endif %}
+      {% endif %}
+    </div>
+  {% endif %}
+
+  <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
     
-    <h3 class="archive__item-title" style="font-size: 1.25rem; margin-bottom: 0.25rem;">
+    <h3 class="archive__item-title" style="font-size: 1.25rem; margin-bottom: 0.25rem; border: none;">
       
       {% if entry.url %}
         <a href="{{ entry.url }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true" style="font-size: 0.9rem; margin-right: 5px;"></i></a>
@@ -34,43 +67,100 @@
       {% endif %}
     </h3>
 
-    <div class="archive__item-excerpt" style="font-size: 0.95rem; margin-bottom: 0.25rem;">
-      {%- for author in entry.author_array -%}
-        {% assign author_is_self = false %}
-        {% if site.scholar.last_name contains author.last and site.scholar.first_name contains author.first %}
-          {% assign author_is_self = true %}
-        {% endif %}
+    <div class="author" style="font-size: 0.95rem; margin-bottom: 0.25rem;">
+      {% assign author_array_size = entry.author_array | size %}
+      {% assign author_array_limit = author_array_size %}
+      {% if site.max_author_limit and author_array_size > site.max_author_limit %}
+        {% assign author_array_limit = site.max_author_limit %}
+      {% endif %}
 
-        {% if forloop.first == false %}, {% endif %}
-        {% if forloop.last and forloop.length > 1 %}and {% endif %}
+      {%- for author in entry.author_array limit: author_array_limit -%}
+        {% assign author_is_self = false %}
+        {%- assign author_last_name = author.last | regex_replace: '[*∗†‡§¶‖&^]', '' -%}
+        {%- assign author_last_html = author.last | regex_replace: '([*∗†‡§¶‖&^]+)', '<sup>\1</sup>' -%}
         
-        {% if author_is_self %}
-          <strong>{{ author.first }} {{ author.last }}</strong>
-        {% else %}
-          {{ author.first }} {{ author.last }}
+        {% if site.scholar.last_name contains author_last_name and site.scholar.first_name contains author.first %}
+          {% assign author_is_self = true %}
+        {%- endif -%}
+        
+        {% assign coauthor_url = null %}
+        {%- assign clean_last_name = author_last_name | downcase | remove_accents -%}
+        {% if site.data.coauthors[clean_last_name] %}
+          {%- for coauthor in site.data.coauthors[clean_last_name] -%}
+            {% if coauthor.firstname contains author.first %}
+              {%- assign coauthor_url = coauthor.url -%}
+              {% break %}
+            {%- endif -%}
+          {% endfor %}
+        {%- endif -%}
+
+        {%- if forloop.length > 1 -%}
+          {% if forloop.first == false -%}
+            {%- if forloop.length > 2 %}, {% elsif forloop.length == 2 %}  {% endif %}
+          {%- endif %}
+          {%- if forloop.last and author_array_limit == author_array_size %}and {% endif -%}
         {% endif %}
-      {%- endfor -%}
+        
+        {%- if author_is_self -%}
+          <strong>{{ author.first }} {{ author_last_html }}</strong>
+        {%- else -%}
+          {%- if coauthor_url -%}<a href="{{ coauthor_url }}">{{ author.first }} {{ author_last_html }}</a>
+          {%- else -%}{{ author.first }} {{ author_last_html }}
+          {% endif %}
+        {%- endif -%}
+      {% endfor %}
+
+      {%- assign more_authors = author_array_size | minus: author_array_limit -%}
+      {%- if more_authors > 0 -%}
+        {%- assign more_authors_hide = more_authors | append: ' more author' -%}
+        {% if more_authors > 1 %}{% assign more_authors_hide = more_authors_hide | append: 's' %}{% endif %}
+        , and <span class="more-authors" title="click to view {{ more_authors_hide }}" onclick="
+              $(this).text($(this).text() == '{{ more_authors_hide }}' ? '{{ more_authors_show }}' : '{{ more_authors_hide }}');
+          ">{{ more_authors_hide }}</span>
+      {%- endif -%}
     </div>
 
-    <div class="periodical" style="font-size: 0.9rem; color: #666; font-style: italic;">
-      {% if entry.type == 'article' %}
-        {{ entry.journal }}
-      {% elsif entry.booktitle %}
-        In {{ entry.booktitle }}
+    {% assign proceedings = 'inproceedings,incollection' | split: ',' %}
+    {% assign thesis = 'thesis,mastersthesis,phdthesis' | split: ',' %}
+    {% if entry.type == 'article' %}
+      {% capture entrytype %}<em>{{ entry.journal }}</em>{% endcapture %}
+    {% elsif proceedings contains entry.type %}
+      {% capture entrytype %}<em>In {{ entry.booktitle }}</em>{% endcapture %}
+    {% elsif thesis contains entry.type %}
+      {% capture entrytype %}<em>{{ entry.school }}</em>{% endcapture %}
+    {% else %}
+      {% capture entrytype %}{% endcapture %}
+    {% endif %}
+    {% if entry.month %}{% capture entrymonth %}{{ " " }}{{ entry.month | capitalize }}{% endcapture %}{% endif %}
+    {% if entry.year %}{% capture entryyear %}{{ " " }}{{ entry.year }}{% endcapture %}{% endif %}
+    
+    <div class="periodical" style="font-size: 0.9rem; color: #666;">
+      {{ entrytype | strip }}{% if entry.location %}, {{ entry.location }}{% endif %}{{ entrymonth }}{{ entryyear }}
+    </div>
+
+    <div class="links" style="margin-top: 8px;">
+      {% if entry.abstract %}
+        <a class="abstract btn btn-sm z-depth-0" role="button" style="border: 1px solid #ddd; font-size: 0.7rem;">Abs</a>
       {% endif %}
-      {% if entry.year %}
-        ({{ entry.year }})
+      {% if entry.bibtex_show %}
+        <a class="bibtex btn btn-sm z-depth-0" role="button" style="border: 1px solid #ddd; font-size: 0.7rem;">Bib</a>
+      {% endif %}
+      {% if entry.google_scholar_id %}
+        <a href="https://scholar.google.com/citations?user={{ site.data.socials.scholar_userid }}&citation_for_view={{ site.data.socials.scholar_userid }}:{{ entry.google_scholar_id }}" aria-label="Google Scholar link" role="button">
+          <img src="https://img.shields.io/badge/scholar-link-4285F4?logo=googlescholar&labelColor=beige" alt="Scholar" style="height: 20px;">
+        </a>
       {% endif %}
     </div>
 
     {% if entry.abstract %}
-      <div class="links" style="margin-top: 5px;">
-        <a class="abstract btn btn-sm z-depth-0" role="button" style="border: 1px solid #ddd; padding: 2px 8px; font-size: 0.75rem;">Abstract</a>
-      </div>
-      <div class="abstract hidden" style="font-size: 0.85rem; background: #f9f9f9; padding: 10px; margin-top: 5px; border-radius: 5px;">
-        {{ entry.abstract }}
+      <div class="abstract hidden" style="font-size: 0.85rem; background: #fdfdfd; padding: 10px; border-left: 3px solid #eee; margin-top: 10px;">
+        <p>{{ entry.abstract }}</p>
       </div>
     {% endif %}
-
+    {% if entry.bibtex_show %}
+      <div class="bibtex hidden">
+        {% highlight bibtex %}{{ entry.bibtex | hideCustomBibtex }}{% endhighlight %}
+      </div>
+    {% endif %}
   </div>
 </div>
