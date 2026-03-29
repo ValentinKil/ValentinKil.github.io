@@ -17,18 +17,12 @@ on:
       - "**.yml"
       - "Gemfile"
       - "Gemfile.lock"
-      - "!.github/workflows/axe.yml"
-      - "!.github/workflows/broken-links.yml"
-      - "!.github/workflows/deploy-image.yml"
-      - "!.github/workflows/prettier.yml"
-      - "!CUSTOMIZE.md"
-      - "!FAQ.md"
-      - "!INSTALL.md"
-      - "!README.md"
   workflow_dispatch:
 
 permissions:
   contents: write
+  pages: write      # Required for official deployment
+  id-token: write   # Required for official deployment
 
 jobs:
   deploy:
@@ -41,13 +35,12 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.3.4"
-          bundler-cache: true # This automatically runs 'bundle install' and caches gems
+          bundler-cache: true 
 
       - name: Setup Python 🐍
         uses: actions/setup-python@v5
         with:
           python-version: "3.13"
-          # Removed cache: "pip" to prevent the error since requirements.txt is missing
 
       - name: Cache Jekyll 💾
         uses: actions/cache@v4
@@ -68,15 +61,15 @@ jobs:
 
       - name: Install and Build 🔧
         run: |
-          # Install notebook tools
           pip3 install nbconvert
-          
-          # Build the site
           export JEKYLL_ENV=production
           bundle exec jekyll build
 
-      - name: Deploy 🚀
-        if: github.event_name != 'pull_request'
-        uses: JamesIves/github-pages-deploy-action@v4
+      - name: Upload artifact 📤
+        uses: actions/upload-pages-artifact@v3
         with:
-          folder: _site
+          path: ./_site
+
+      - name: Deploy to GitHub Pages 🚀
+        id: deployment
+        uses: actions/deploy-pages@v4
