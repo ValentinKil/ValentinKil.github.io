@@ -238,12 +238,12 @@ ol.bibliography {
   }
 
   .links .btn {
-    background-color: $lighter-gray;
+    background-color: $light-gray;
     color: #444; /* A dark gray for text contrast */
-    border: 1px solid darken($lighter-gray, 10%);
+    border: 1px solid darken($light-gray, 10%);
 
     &:hover {
-      background-color: darken($lighter-gray, 5%);
+      background-color: darken($light-gray, 5%);
     }
   }
 }
@@ -252,7 +252,7 @@ ol.bibliography {
 h2.bibliography {
   position: relative;      /* For positioning the ::before pseudo-element */
   text-align: right;       /* Align the year text to the right */
-  color: $lighter-gray;    /* Set the year color */
+  color: $light-gray;    /* Set the year color */
   font-size: $type-size-5; /* Adjust font size to be less prominent */
   margin-top: 3em;         /* Add space above the whole thing */
   margin-bottom: 1em;
@@ -267,6 +267,6 @@ h2.bibliography {
     left: 0;
     width: 100%;
     height: 1px;
-    background-color: $lighter-gray;
+    background-color: $light-gray;
   }
 }
