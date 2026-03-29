@@ -236,4 +236,14 @@ ol.bibliography {
       color: $info-color;
     }
   }
+
+  .links .btn {
+    background-color: $light-gray;
+    color: #444; /* A dark gray for text contrast */
+    border: 1px solid darken($light-gray, 10%);
+
+    &:hover {
+      background-color: darken($light-gray, 5%);
+    }
+  }
 }
