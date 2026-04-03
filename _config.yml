@@ -229,6 +229,7 @@ plugins:
   - jekyll-gist
   - jekyll-redirect-from
   - jekyll-scholar
+  - jekyll-sitemap
 
 # mimic GitHub Pages with --safe
 whitelist:
