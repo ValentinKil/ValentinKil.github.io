@@ -10,6 +10,7 @@ group :jekyll_plugins do
   gem "jekyll-gist", "~> 1.5"
   gem "jekyll-redirect-from", "~> 0.16"
   gem "jekyll-scholar", "~> 7.1"
+  gem "jekyll-sitemap"
 end
 
 # Required for Ruby 3.x
