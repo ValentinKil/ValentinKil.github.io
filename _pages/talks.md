@@ -10,7 +10,7 @@ author_profile: true
 **[The 4th Bayesian Nonparametrics Networking Workshop (Seoul, Jul 2026)](https://bnpnetworking2026.github.io)**\
 Invited talk: Modelling Extremely Sparse Networks
 
-**[ProbML 2026](https://probml.cc)**\
+**[ProbML 2026 (Seoul, Jul 2026)](https://probml.cc)**\
 Poster: Anytime-valid, Bayes-assisted, Prediction-Powered Inference
 
 **[ISBA World Meeting (Nagoya, Jul 2026)](https://isba2026.github.io)**\
