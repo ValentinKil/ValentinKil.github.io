@@ -294,3 +294,28 @@ h2.talks-section {
     background-color: $light-gray;
   }
 }
+
+h3.talks-section {
+  position: relative;
+  text-align: right;
+  // Use a lighter color variable or lighten the existing one
+  color: lighten($light-gray, 15%); 
+  // Scaled down from type-size-5
+  font-size: $type-size-6; 
+  // Reduced margins for a tighter feel
+  margin-top: 2em;
+  margin-bottom: 0.5em;
+  padding-top: 0.5em;
+  border-bottom: none;
+
+  &::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 1px;
+    // Matching the lighter color for the top border line
+    background-color: lighten($light-gray, 15%);
+  }
+}

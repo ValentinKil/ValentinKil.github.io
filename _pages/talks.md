@@ -28,6 +28,9 @@ Talk: Comparative study of the French and British STEM academic systems
 **[MPLS Researcher Conference: AI & Ethics (Oxford, Jan 2026)](https://www.mpls.ox.ac.uk/training/mpls-researcher-conference)**\
 Lightning talk and Poster: Confidence sequences with informative, bounded-influence priors
 
+<h3 class="talks-section">2025</h3>
+
+
 **[NeurIPS 2025 (San Diego, Dec 2025)](https://neurips.cc/Conferences/2025)**\
 Poster: Anytime-valid, Bayes-assisted, Prediction-Powered Inference
 
@@ -62,6 +65,9 @@ Talk: Modelling Extremely Sparse Networks
 **Second Year Poster Session (Oxford, Mar 2025)** \
 Poster: Modeling Extremely Sparse Networks (Awarded First Prize 🥇)
 
+<h3 class="talks-section">2024</h3>
+
+
 **[ISBA World Metting (Venice, Jul 2024)](https://www.unive.it/web/en/2208/home)** \
 Poster: Modeling Extremely Sparse Networks
 
@@ -71,6 +77,8 @@ Poster: Modeling Extremely Sparse Networks (Awarded First Prize 🥇)
 
 **[Junior Probability Seminar (Oxford, May 2024)](https://talks.ox.ac.uk/talks/series/id/a1fca4a2-7a77-4fa8-94aa-d9a817bce157)** \
 Talk: Modelling Extremely Sparse Networks with Random Measures
+
+<h3 class="talks-section">2023</h3>
 
 **[Bayes@CRIM (Marseille, Oct 2023)](https://bayesatcirm.github.io/2023/)** \
 Poster: Improving Gaussian Graphical Model inference by learning the graph structure <a href="https://valentinkil.github.io/files/pdf/PosterMarseille.pdf" class="special-link"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
