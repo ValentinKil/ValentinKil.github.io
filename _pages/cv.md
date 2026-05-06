@@ -16,6 +16,7 @@ My <a href="http://www.linkedin.com/in/valentin-kilian-277777209/" class="specia
 
 # Grants and Awards
 
+- ISBA Junior Researcher Travel Award (May 2026)
 - 2026 IMS Hannan Graduate Student Travel Award (April 2026)
 - London Mathematical Society Early Career Research Travel Grant (March 2026)
 - Finalist in the Maths category at [STEM in Britain](https://stemforbritain.org.uk) (March 2026)
