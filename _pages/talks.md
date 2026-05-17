@@ -7,6 +7,9 @@ author_profile: true
 
 <h2 class="talks-section">Future</h2>
 
+**[Uncertainty in Agentic Systems, ICML 2026 Workshop (Seoul, Jul 2026)](https://agentic-uncertainty-icml2026.github.io)**\
+Poster: Prediction--Powered Active Testing
+
 **[The 4th Bayesian Nonparametrics Networking Workshop (Seoul, Jul 2026)](https://bnpnetworking2026.github.io)**\
 Invited talk: Modelling Extremely Sparse Networks
 
