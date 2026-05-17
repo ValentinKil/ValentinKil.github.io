@@ -7,7 +7,6 @@ author_profile: true
 
 <h2 class="talks-section">Future</h2>
 
-<h3 class="talks-section">2026</h3>
 
 
 **[Uncertainty in Agentic Systems, ICML 2026 Workshop (Seoul, Jul 2026)](https://agentic-uncertainty-icml2026.github.io)**\
@@ -23,6 +22,8 @@ Poster: Anytime-valid, Bayes-assisted, Prediction-Powered Inference
 Invited talk: Modelling Extremely Sparse Networks
 
 <h2 class="talks-section">Past</h2>
+
+<h3 class="talks-section">2026</h3>
 
 **[STEM in Britain (London, March 2026)](https://stemforbritain.org.uk)**\
 Poster (Finalist in the Maths category): Modelling the Real World: A  New Framework for Extremely Sparse Networks
