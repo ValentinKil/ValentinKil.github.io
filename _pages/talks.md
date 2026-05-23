@@ -7,7 +7,8 @@ author_profile: true
 
 <h2 class="talks-section">Future</h2>
 
-
+**[ICML 2026 Workshop on Hypothesis Testing (Seoul, Jul 2026)](https://hypothesis-testing-workshop.vercel.app)**\
+Poster: Asymptotically Log-Optimal Bayes-Assisted Confidence Sequences for Bounded Mean
 
 **[Uncertainty in Agentic Systems, ICML 2026 Workshop (Seoul, Jul 2026)](https://agentic-uncertainty-icml2026.github.io)**\
 Poster: Prediction--Powered Active Testing
