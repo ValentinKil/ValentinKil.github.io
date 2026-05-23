@@ -7,6 +7,9 @@ author_profile: true
 
 <h2 class="talks-section">Future</h2>
 
+**[SPIGM @ ICML 2026 (Seoul, Jul 2026)](https://spigmworkshop2026.github.io)**
+Poster: A Generative Model for Extremely Sparse Edge-Exchangeable Networks
+
 **[ICML 2026 Workshop on Hypothesis Testing (Seoul, Jul 2026)](https://hypothesis-testing-workshop.vercel.app)**\
 Poster: Asymptotically Log-Optimal Bayes-Assisted Confidence Sequences for Bounded Mean
 
