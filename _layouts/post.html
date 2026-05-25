@@ -22,5 +22,15 @@ author_profile: true
       <!-- mathjax -->
       <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     
+      <!-- Automatically add special-link class to all links in the post -->
+      <script>
+        document.addEventListener("DOMContentLoaded", function() {
+          var links = document.querySelectorAll(".post-content a");
+          links.forEach(function(link) {
+            link.classList.add("special-link");
+          });
+        });
+      </script>
+
   </div>
 </div>
