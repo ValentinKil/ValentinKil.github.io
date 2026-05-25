@@ -2,13 +2,13 @@
 title: The Drunk Walker on $\mathbb{Z}^d$
 date: 2024-12-24
 layout: post
-permalink: /Randomwalk/
+permalink: /blog/Randomwalk/
 excerpt : "A proof that a drunk man will find his way home, but a drunk bird may get lost forever"
 ---
 
 *The complete article has been published in the 2025 issue of the Invariant, the magazine of the [Oxford student's mathematics society](https://www.invariants.org.uk).*
 
-<img src="../images/drinktardi.jpeg">
+<img src="../images/pots/drinktardi.jpeg">
 
 
 A random walk is a fundamental concept in probability theory, used to model stochastic processes in which an entity moves in steps determined by random choices. The most common types of random walks involve either independent identically distributed (i.i.d.) steps or steps governed by a Markov process.
