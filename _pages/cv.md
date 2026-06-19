@@ -16,6 +16,8 @@ My <a href="http://www.linkedin.com/in/valentin-kilian-277777209/" class="specia
 
 # Grants and Awards
 
+- Contribution to the Department Award (Jun 2026)
+- Junior Researcher Travel Award for the 4th BNP Networking Workshop (May 2026)
 - ISBA Junior Researcher Travel Award (May 2026)
 - 2026 IMS Hannan Graduate Student Travel Award (April 2026)
 - London Mathematical Society Early Career Research Travel Grant (March 2026)
