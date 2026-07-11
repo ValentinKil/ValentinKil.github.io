@@ -7,14 +7,18 @@ author_profile: true
 
 <h2 class="talks-section">Future</h2>
 
-**[SPIGM @ ICML 2026 (Seoul, Jul 2026)](https://spigmworkshop2026.github.io)**\
-Poster: A Generative Model for Extremely Sparse Edge-Exchangeable Networks
-
 **[ICML 2026 Workshop on Hypothesis Testing (Seoul, Jul 2026)](https://hypothesis-testing-workshop.vercel.app)**\
 Poster: Asymptotically Log-Optimal Bayes-Assisted Confidence Sequences for Bounded Mean
 
 **[Uncertainty in Agentic Systems, ICML 2026 Workshop (Seoul, Jul 2026)](https://agentic-uncertainty-icml2026.github.io)**\
 Poster: Prediction--Powered Active Testing
+
+<h2 class="talks-section">Past</h2>
+
+<h3 class="talks-section">2026</h3>
+
+**[SPIGM @ ICML 2026 (Seoul, Jul 2026)](https://spigmworkshop2026.github.io)**\
+Poster: A Generative Model for Extremely Sparse Edge-Exchangeable Networks
 
 **[The 4th Bayesian Nonparametrics Networking Workshop (Seoul, Jul 2026)](https://bnpnetworking2026.github.io)**\
 Invited talk: Modelling Extremely Sparse Networks
@@ -24,10 +28,6 @@ Poster: Anytime-valid, Bayes-assisted, Prediction-Powered Inference
 
 **[ISBA World Meeting (Nagoya, Jul 2026)](https://isba2026.github.io)**\
 Invited talk: Modelling Extremely Sparse Networks
-
-<h2 class="talks-section">Past</h2>
-
-<h3 class="talks-section">2026</h3>
 
 **[STEM in Britain (London, March 2026)](https://stemforbritain.org.uk)**\
 Poster (Finalist in the Maths category): Modelling the Real World: A  New Framework for Extremely Sparse Networks
