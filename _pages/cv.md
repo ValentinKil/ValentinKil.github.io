@@ -8,9 +8,9 @@ redirect_from:
 ref: cv
 ---
 
-<iframe src="/files/pdf/CV.pdf" width="100%" height="1100" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/pdf/CV.pdf#toolbar=0&amp;navpanes=0&amp;view=FitH" title="Curriculum Vitae" width="100%" height="1100" style="border: 0;"></iframe>
 
-You can download my CV in PDF format : <a href="https://valentinkil.github.io/files/pdf/CV.pdf" class="special-link">english</a> <I>(last updated: Sep 2025) </I>.
+You can download my CV in PDF format : <a href="https://valentinkil.github.io/files/pdf/CV.pdf" class="special-link">english</a> <I>(last updated: Aug 2026) </I>.
 
 My <a href="http://www.linkedin.com/in/valentin-kilian-277777209/" class="special-link">Linkedin</a> profile is updated more regularly. 
 
