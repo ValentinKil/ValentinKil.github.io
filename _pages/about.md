@@ -20,7 +20,7 @@ I am a PhD student at the University of Oxford in the Department of Statistics. 
 - **BNP for Network Modelling:** Bayesian nonparametric statistical modeling of real-world networks.
 
 
-I'm a Lecturer in Mathematics and Statistics at [Balliol College](https://www.balliol.ox.ac.uk)
+<!-- I'm a Lecturer in Mathematics and Statistics at [Balliol College](https://www.balliol.ox.ac.uk)-->
 
 I regularly serve as a reviewer for conferences and journals including NeurIPS, ICML, ICLR, AISTATS, and TMLR.
 
