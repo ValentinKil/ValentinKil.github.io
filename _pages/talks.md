@@ -14,7 +14,7 @@ Poster: Asymptotically Log-Optimal Bayes-Assisted Confidence Sequences for Bound
 Poster: Asymptotically Log-Optimal Bayes-Assisted Confidence Sequences for Bounded Mean
 
 **[Oxford E-value reading Group (Oxford, Oct 2026)](https://github.com/oxcsml/evalues-reading-group)**\
-Talk: Introduction to Tabular Foundation Models, [slides](https://github.com/oxcsml/evalues-reading-group/blob/main/slides/2026-2027/TabFM.pdf), [selected bibliography](https://github.com/oxcsml/evalues-reading-group/blob/main/slides/2026-2027/TabFM_Bibliography.pdf)
+Talk: Introduction to Tabular Foundation Models [[slides]](https://github.com/oxcsml/evalues-reading-group/blob/main/slides/2026-2027/TabFM.pdf), [[selected bibliography]](https://github.com/oxcsml/evalues-reading-group/blob/main/slides/2026-2027/TabFM_Bibliography.pdf)
 
 <h2 class="talks-section">Past</h2>
 
