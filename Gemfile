@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-ruby '4.0.2'
+ruby '4.0.9'
 
 # Core Jekyll 4 for Ruby 3.3 compatibility
 gem "jekyll", "~> 4.3"
