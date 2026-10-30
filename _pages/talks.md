@@ -7,12 +7,21 @@ author_profile: true
 
 <h2 class="talks-section">Future</h2>
 
-**[Sierra Seminar (Inria Paris, Sep 2026)](https://sierra-mlopt.github.io)**\
+**[NeurIPS 2026 Workshop: Can We Trust AI Evaluation? (Sydney, Dec 2026)](https://tai-eval.github.io)**\
 Poster: Asymptotically Log-Optimal Bayes-Assisted Confidence Sequences for Bounded Mean
+
+**[NeurIPS 2026 (Sydney, Dec 2026)](https://neurips.cc/Conferences/2026)**\
+Poster: Asymptotically Log-Optimal Bayes-Assisted Confidence Sequences for Bounded Mean
+
+**[Oxford E-value reading Group (Oxford, Oct 2026)](https://github.com/oxcsml/evalues-reading-group)**\
+Talk: Introduction to Tabular Foundation Models, [slides](https://github.com/oxcsml/evalues-reading-group/blob/main/slides/2026-2027/TabFM.pdf), [selected bibliography](https://github.com/oxcsml/evalues-reading-group/blob/main/slides/2026-2027/TabFM_Bibliography.pdf)
 
 <h2 class="talks-section">Past</h2>
 
 <h3 class="talks-section">2026</h3>
+
+**[Sierra Seminar (Inria Paris, Sep 2026)](https://sierra-mlopt.github.io)**\
+Talk: Asymptotically Log-Optimal Bayes-Assisted Confidence Sequences for Bounded Mean
 
 **[ICML 2026 Workshop on Hypothesis Testing (Seoul, Jul 2026)](https://hypothesis-testing-workshop.vercel.app)**\
 Poster: Asymptotically Log-Optimal Bayes-Assisted Confidence Sequences for Bounded Mean
@@ -34,7 +43,6 @@ Invited talk: Modelling Extremely Sparse Networks
 
 **[STEM in Britain (London, March 2026)](https://stemforbritain.org.uk)**\
 Poster (Finalist in the Maths category): Modelling the Real World: A  New Framework for Extremely Sparse Networks
-
 
 **[OxCSML Seminar (Oxford, Jan 2026)](https://www.stats.ox.ac.uk/computational-statistics-and-machine-learning)**\
 Talk: Comparative study of the French and British STEM academic systems 
