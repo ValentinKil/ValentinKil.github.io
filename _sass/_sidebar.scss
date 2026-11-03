@@ -268,7 +268,7 @@
   li {
     margin: 0;
     font-family: $global-font-family;
-    font-size: $type-size-5;
+    font-size: 0.8rem; // rem so nested items keep the same size
     line-height: 1.5;
   }
 
