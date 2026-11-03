@@ -260,9 +260,16 @@
     padding-left: 1em;
   }
 
+  // only sections and subsections
+  ul ul ul {
+    display: none;
+  }
+
   li {
-    margin: 0.25em 0;
-    line-height: 1.4;
+    margin: 0;
+    font-family: $global-font-family;
+    font-size: $type-size-5;
+    line-height: 1.5;
   }
 
   a {
