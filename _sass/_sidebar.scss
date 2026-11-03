@@ -235,3 +235,36 @@
     }
   }
 }
+
+/*
+   Table of contents in the left sidebar (blog posts)
+   ========================================================================== */
+
+.sidebar__toc {
+  margin-bottom: 1em;
+
+  @include breakpoint($large) {
+    max-height: calc(100vh - 4em);
+    overflow-y: auto;
+  }
+
+  .nav__title {
+    margin: 0;
+    padding: 0.5rem 1rem;
+  }
+
+  .toc__menu ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .toc__menu ul a {
+    padding-left: 1.75rem;
+    font-weight: normal;
+  }
+
+  .toc__menu ul ul a {
+    padding-left: 2.5rem;
+  }
+}

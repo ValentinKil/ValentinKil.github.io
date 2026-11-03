@@ -1,6 +1,15 @@
 {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky">
-  {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
+  {% assign sidebar_toc_html = "" %}
+  {% if page.sidebar_toc or layout.sidebar_toc %}
+    {% capture sidebar_toc_html %}{% include toc.html sanitize=true html=content h_min=1 h_max=3 class="toc__menu" %}{% endcapture %}
+  {% endif %}
+  {% if sidebar_toc_html contains "<li" %}
+    <nav class="toc sidebar__toc">
+      <header><h4 class="nav__title"><i class="fas fa-align-justify"></i> Contents</h4></header>
+      {{ sidebar_toc_html }}
+    </nav>
+  {% elsif page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
   {% if page.sidebar %}
     {% for s in page.sidebar %}
       {% if s.image %}
