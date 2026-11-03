@@ -2,11 +2,11 @@
   <div class="sidebar sticky">
   {% assign sidebar_toc_html = "" %}
   {% if page.sidebar_toc or layout.sidebar_toc %}
-    {% capture sidebar_toc_html %}{% include toc.html sanitize=true html=content h_min=1 h_max=3 class="toc__menu" %}{% endcapture %}
+    {% capture sidebar_toc_html %}{% include toc.html sanitize=true html=content h_min=1 h_max=3 class="sidebar__toc-list" %}{% endcapture %}
   {% endif %}
   {% if sidebar_toc_html contains "<li" %}
-    <nav class="toc sidebar__toc">
-      <header><h4 class="nav__title"><i class="fas fa-align-justify"></i> Contents</h4></header>
+    <nav class="sidebar__toc">
+      <h3 class="sidebar__toc-title">Contents</h3>
       {{ sidebar_toc_html }}
     </nav>
   {% elsif page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}

@@ -241,30 +241,37 @@
    ========================================================================== */
 
 .sidebar__toc {
-  margin-bottom: 1em;
-
   @include breakpoint($large) {
     max-height: calc(100vh - 4em);
     overflow-y: auto;
   }
 
-  .nav__title {
-    margin: 0;
-    padding: 0.5rem 1rem;
+  .sidebar__toc-title {
+    margin: 0 0 0.5em;
   }
 
-  .toc__menu ul {
+  ul {
     margin: 0;
     padding: 0;
     list-style: none;
   }
 
-  .toc__menu ul a {
-    padding-left: 1.75rem;
-    font-weight: normal;
+  ul ul {
+    padding-left: 1em;
   }
 
-  .toc__menu ul ul a {
-    padding-left: 2.5rem;
+  li {
+    margin: 0.25em 0;
+    line-height: 1.4;
+  }
+
+  a {
+    color: $gray;
+    text-decoration: none;
+
+    &:hover {
+      color: $link-color-hover;
+      text-decoration: underline;
+    }
   }
 }
